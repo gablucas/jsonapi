@@ -3,7 +3,7 @@
     {
       "id": "mshirt01",
       "name": "Woven Vans x Crayola Floral",
-      "genre": "Masculino",
+      "genre": "masculino",
       "brand": "Vans",
       "price": "299,00",
       "color": "Floral",
@@ -14,7 +14,7 @@
     {
       "id": "mshirt02",
       "name": "Anaheim Mashup Woven Black",
-      "genre": "Masculino",
+      "genre": "masculino",
       "brand": "Vans",
       "price": "299,00",
       "color": "Estampado",
@@ -25,7 +25,7 @@
     {
       "id": "mshirt03",
       "name": "Bayview LS II True Navy",
-      "genre": "Masculino",
+      "genre": "masculino",
       "brand": "Vans",
       "price": "299,00",
       "color": "Azul",
@@ -36,7 +36,7 @@
     {
       "id": "mshirt04",
       "name": "Houser SS Dress Blues Blue Coral",
-      "genre": "Masculino",
+      "genre": "masculino",
       "brand": "Vans",
       "price": "169,00",
       "color": "Azul",
@@ -47,7 +47,7 @@
     {
       "id": "mshirt05",
       "name": "Box Flannel True Blue Oatmeal",
-      "genre": "Masculino",
+      "genre": "masculino",
       "brand": "Vans",
       "price": "349,00",
       "color": "Xadrez",
@@ -58,7 +58,7 @@
     {
       "id": "mshirt06",
       "name": "Solid Stone Off White",
-      "genre": "Masculino",
+      "genre": "masculino",
       "brand": "Volcom",
       "price": "149,00",
       "color": "Branca",
@@ -69,7 +69,7 @@
     {
       "id": "mshirt07",
       "name": "Leaf Spray Woven Black",
-      "genre": "Masculino",
+      "genre": "masculino",
       "brand": "Volcom",
       "price": "293,00",
       "color": "Estampado",
@@ -80,7 +80,7 @@
     {
       "id": "mshirt08",
       "name": "Square Peg Blue",
-      "genre": "Masculino",
+      "genre": "masculino",
       "brand": "Volcom",
       "price": "251,00",
       "color": "Estampado",
@@ -91,7 +91,7 @@
     {
       "id": "mshirt09",
       "name": "Skate Vital Woven Sunburst",
-      "genre": "Masculino",
+      "genre": "masculino",
       "brand": "Volcom",
       "price": "293,00",
       "color": "Estampado",
@@ -102,7 +102,7 @@
     {
       "id": "mshirt10",
       "name": "Solid Stone Navy Blue",
-      "genre": "Masculino",
+      "genre": "masculino",
       "brand": "Volcom",
       "price": "174,00",
       "color": "Azul Marinho",
@@ -113,7 +113,7 @@
     {
       "id": "mshirt11",
       "name": "Retro Floral Woven",
-      "genre": "Feminino",
+      "genre": "feminino",
       "brand": "Vans",
       "price": "179,00",
       "color": "Floral",
@@ -124,18 +124,18 @@
     {
       "id": "mshirt12",
       "name": "Wyld Printed SS Top Disty Floral Marshmallow",
-      "genre": "Feminino",
+      "genre": "feminino",
       "brand": "Vans",
       "price": "199,00",
       "color": "Floral",
       "description": "Com uma estampa floral fechada e inspirada no vintage, a Wyld Printed Top é uma blusa de tecido 100% viscose com mangas curtas e botões frontais. Os detalhes de gola notch e jugo elevam esse estilo atemporal. O modelo tem 1,75 m de altura e usa tamanho Pequeno.",
-      "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt11.webp"
+      "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt12.webp"
     },
 
     {
       "id": "mshirt13",
       "name": "Woven Vans X Textured Waves Bombay Brown",
-      "genre": "Feminino",
+      "genre": "feminino",
       "brand": "Vans",
       "price": "219,00",
       "color": "Estampado",
@@ -146,7 +146,7 @@
     {
       "id": "mshirt14",
       "name": "Wovan Vans X Curren X Knost",
-      "genre": "Feminino",
+      "genre": "feminino",
       "brand": "Vans",
       "price": "399,00",
       "color": "Preto",
@@ -157,7 +157,7 @@
     {
       "id": "mshirt15",
       "name": "Box Car LL Flannel Zen Blue",
-      "genre": "Feminino",
+      "genre": "feminino",
       "brand": "Vans",
       "price": "179,00",
       "color": "Xadrez",
