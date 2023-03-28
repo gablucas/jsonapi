@@ -1,7 +1,7 @@
 {
-  "mens": {
-    "clothes": {
-      "shirts": [
+  "masculino": {
+    "roupas": {
+      "camisas": [
         {
           "id": "mshirt01",
           "name": "Woven Vans x Crayola Floral",
