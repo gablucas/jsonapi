@@ -112,111 +112,111 @@
 
     {
       "id": "mtshirt11",
-      "name": "Workwear Short Sleeve Tee",
+      "name": "VOLCOM LONG FIT SOLID POCKET",
       "genre": "masculino",
       "brand": "Volcom",
-      "price": "159,00",
-      "color": "Areia",
-      "description": "Vestuário de trabalho Volcom | Produtos de qualidade, duráveis. Construído sobre uma base de libertação criativa. Projetado com durabilidade, função e estilo único, aproveitamos o melhor do que aprendemos em 3 décadas de vazamento de concreto, construção de parques de skate e ressurreição de rampas de quintal para entregar esta coleção.",
+      "price": "129,00",
+      "color": "Vinho",
+      "description": "Camiseta Volcom Long Fit Solid Pocket. Possui modelagem long fit, estampa em silk frontal, assinatura Volcom na manga e viés contrastante. Disponível nas cores branco, preto, azul escuro e vinho.",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt11.webp"
     },
 
     {
       "id": "mtshirt12",
-      "name": "Stript Short Sleeve Tee",
+      "name": "VOLCOM MANGA LONGA CHROMESTONE",
       "genre": "masculino",
       "brand": "Volcom",
-      "price": "179,00",
+      "price": "159,00",
       "color": "Preto",
-      "description": "Parte da coleção Eco-True da Volcom, você ficará ótimo e se sentirá bem com esta camiseta. É feito de algodão 100% orgânico extremamente macio em um peso médio, tornando-se uma camisa verdadeiramente mais sustentável que você pode usar durante todo o ano.",
+      "description": "Camiseta Volcom Manga Longa Chromestone. Possui modelagem regular, estampa em silk frontal e na manga e viés contrastante. Disponível nas cores branco e preto.",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt12.webp"
     },
 
     {
       "id": "mtshirt13",
-      "name": "Enthused Short Sleeve Tee",
+      "name": "VOLCOM REGULAR SOLID STONE",
       "genre": "masculino",
       "brand": "Volcom",
-      "price": "179,00",
-      "color": "Branco",
-      "description": "Deslize esta camiseta e fique entusiasmado. Com sua construção premium, ajuste básico e estrutura de algodão extremamente macia e pesada, ela oferece conforto implacável, ideal para qualquer atividade ativa ou apenas para curtir a cidade.",
+      "price": "159,00",
+      "color": "Verde",
+      "description": "Camiseta Volcom Regular Solid Stone. Possui modelagem regular, bordado Volcom Stone frontal e lavanderia efeito ionizado. Disponível nas cores verde, amarelo e pink.",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt13.webp"
     },
 
     {
       "id": "mtshirt14",
-      "name": "Alstone Short Sleeve Tee",
+      "name": "VOLCOM REGULAR NEW STYLEe",
       "genre": "masculino",
       "brand": "Volcom",
-      "price": "179,00",
-      "color": "Preto",
-      "description": "Seu guarda-roupa já é legal, mas achamos que poderia usar mais dragões. A camiseta Alstone oferece estilo único e construção de algodão torcido em anel pesado, extremamente macio e confortável, feito para durar.",
+      "price": "129,00",
+      "color": "Vinho",
+      "description": "Camiseta Volcom Regular New Style. Possui modelagem regular, estampa em silk frontal em alto relevo, assinatura Volcom na manga e viés contrastante. Disponível nas cores branco, azul, amarelo e vinho.",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt14.webp"
     },
 
     {
       "id": "mtshirt15",
-      "name": "Ovoid Short Sleeve Tee",
+      "name": "VOLCOM REGULAR CRISP STONE",
       "genre": "masculino",
       "brand": "Volcom",
-      "price": "179,00",
-      "color": "Laranja",
-      "description": "Feita de algodão orgânico premium fiado em anel de peso médio, a camiseta de manga curta Ovoid oferece máxima durabilidade durante todo o ano. Jogue e pronto, não há razão para confusão aqui.",
+      "price": "95,00",
+      "color": "Azul",
+      "description": "Camiseta Volcom Regular Crisp Stone. Possui modelagem regular, estampa em silk frontal, assinatura Volcom na manga e viés contrastante. Confeccionada em tecido algodão. + Modelagem regular + Silk frontal + Assinatura Volcom na manga + Viés contrastante 100% Algodão",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt15.webp"
     },
 
     {
       "id": "mtshirt16",
-      "name": "Refilled Short Sleeve Tee",
+      "name": "VOLCOM LONG FIT SOLID POCKET",
       "genre": "masculino",
       "brand": "Volcom",
-      "price": "179,00",
-      "color": "Marrom",
-      "description": "Não fale sobre isso, seja sobre isso. A camiseta de manga curta Refill permanece fiel a isso em um ajuste super macio e moderno, peso médio, mistura de urze de algodão e poliéster. Você vai adorar o ajuste e a sensação desta camiseta.",
+      "price": "129,00",
+      "color": "Azul Escuro",
+      "description": "Camiseta Volcom Long Fit Solid Pocket. Possui modelagem long fit, estampa em silk frontal, assinatura Volcom na manga e viés contrastante. Disponível nas cores branco, preto, azul escuro e vinho.",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt16.webp"
     },
 
     {
       "id": "mtshirt17",
-      "name": "Neweuro Short",
+      "name": "VOLCOM LONG FIT SOLID POCKET",
       "genre": "masculino",
       "brand": "Volcom",
-      "price": "179,00",
-      "color": "Black",
-      "description": "Estilo simples e construção de qualidade fazem da camiseta New Euro um sucesso sempre. Corte em algodão pesado premium com um ajuste básico fácil e logotipo Volcom macio.",
+      "price": "129,00",
+      "color": "Preto",
+      "description": "Camiseta Volcom Long Fit Solid Pocket. Possui modelagem long fit, estampa em silk frontal, assinatura Volcom na manga e viés contrastante. Disponível nas cores branco, preto, azul escuro e vinho.",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt17.webp"
     },
 
     {
       "id": "mtshirt18",
-      "name": "Marble Floral",
+      "name": "VOLCOM REGULAR CRISP STONE",
       "genre": "masculino",
       "brand": "Volcom",
-      "price": "179,00",
-      "color": "Cinza Escuro",
-      "description": "Apimente seu estilo e expresse sua personalidade única com esses tons tropicais selvagens. A camisa de manga curta Marble Floral da Volcom apresenta estampa atraente em um ajuste clássico de botão, para que você possa usá-la em qualquer lugar durante toda a temporada.",
+      "price": "95,00",
+      "color": "Amarelo",
+      "description": "Camiseta Volcom Regular Crisp Stone. Possui modelagem regular, estampa em silk frontal, assinatura Volcom na manga e viés contrastante. Confeccionada em tecido algodão. + Modelagem regular + Silk frontal + Assinatura Volcom na manga + Viés contrastante 100% Algodão",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt18.webp"
     },
 
     {
       "id": "mtshirt19",
-      "name": "Feline",
+      "name": "VOLCOM REGULAR HULALA",
       "genre": "masculino",
       "brand": "Volcom",
-      "price": "179,00",
-      "color": "Marrom",
-      "description": "Este felino está se sentindo bem e claramente o gato mais legal que existe, como você. Feito de algodão torcido em anel extremamente macio e durável, esta camiseta é confortável, respirável, feita para durar e verdadeiramente única.",
+      "price": "103,00",
+      "color": "Verde",
+      "description": "Camiseta Volcom Regular Hulala. Possui modelagem regular, estampa em silk frontal e nas costas, assinatura Volcom na manga e viés contrastante. Confeccionada em tecido algodão. + Modelagem regular + Silk frente e costas + Assinatura Volcom na manga + Viés contrastante 100% Algodão",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt19.webp"
     },
 
     {
       "id": "mtshirt20",
-      "name": "Volcom Workwear",
+      "name": "VOLCOM LONG FIT PRICKLY",
       "genre": "masculino",
       "brand": "Volcom",
-      "price": "179,00",
-      "color": "Azul Marinho",
-      "description": "Vestuário de trabalho Volcom | Produtos de qualidade, duráveis. Construído sobre uma base de libertação criativa. Projetado com durabilidade, função e estilo único, aproveitamos o melhor do que aprendemos em 3 décadas de vazamento de concreto, construção de parques de skate e ressurreição de rampas de quintal para entregar esta coleção",
+      "price": "129,00",
+      "color": "Branco",
+      "description": "Camiseta Volcom Long Fit Prickly. Possui modelagem long fit, estampa em silk frontal e nas costas, assinatura Volcom na manga e viés contrastante. Disponível nas cores branco, off white e militar.",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt20.webp"
     }
 
