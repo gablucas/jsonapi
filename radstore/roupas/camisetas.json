@@ -46,11 +46,11 @@
 
     {
       "id": "mtshirt05",
-      "name": "Seasonal Color Stripe Crew Eldeberry Dress Blues",
+      "name": "Seasonal Color Stripe Crew Eldeberry",
       "genre": "masculino",
       "brand": "Vans",
       "price": "259,00",
-      "color": ["Estampado", "#000000"],
+      "color": ["Azul", "#5C6FCF"],
       "description": "Clássico, confortável e essencial para qualquer estilo, o Seasonal Color Stripe Crew apresenta listras ousadas de fios tingidos em cores sazonais. Esta camiseta de malha e manga curta é feita com jersey de algodão compacto, e tem estilo tradicional de gola redonda para um apelo atemporal. O modelo tem 1,83 m de altura e usa tamanho Médio. 100% jersey de algodão compacto Listras quadriculadas de fios tingidos em toda a peça Estilo gola redonda Mangas curtas Logotipo no peito esquerdo.",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt5.webp"
     },
