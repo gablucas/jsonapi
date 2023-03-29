@@ -6,7 +6,7 @@
       "genre": "masculino",
       "brand": "Vans",
       "price": "119,00",
-      "color": "Azul",
+      "color": ["Azul", "#5C6FCF"],
       "description": "Fundada na Califórnia em 1966, a VANS está envolvida com a cultura de rua, artes, música e ligada ao skate e à evolução do esporte, sem perder a essência. Dos clássicos aos modernos, a VANS possui uma enorme variedade de modelos de tênis, roupas e acessórios, sempre matendo o estilo Off The Wall. A camiseta Vans Classic Mini Dual Palm II de manga curta, possui estampa em silk à base d'água na altura do peito do lado esquerdo e nas costas, etiqueta Vans aplicada na manga, gola canelada, costura reforçada nos ombros e é feita de 100% algodão. Tipo de modelagem: Slim. O modelo tem 1,82 m de altura e veste tamanho M.",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt1.webp"
     },
@@ -17,7 +17,7 @@
       "genre": "masculino",
       "brand": "Vans",
       "price": "129,00",
-      "color": "Branco",
+      "color": ["Branco", "#FFFFFF"],
       "description": "Camisa de manga curta estampada confeccionada em viscose com fechamento frontal por botões e aplicação de bolso no lado esquerdo do peito.",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt2.webp"
     },
@@ -28,7 +28,7 @@
       "genre": "masculino",
       "brand": "Vans",
       "price": "149,00",
-      "color": "Verde",
+      "color": ["Verde", "#447831"],
       "description": "Camiseta manga curta verde",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt3.webp"
     },
@@ -39,7 +39,7 @@
       "genre": "masculino",
       "brand": "Vans",
       "price": "179,00",
-      "color": "Vinho",
+      "color": ["Vinho", "#932836"],
       "description": "Todo mundo precisa de uma camiseta em que possa confiar. A Off The Wall Color Multiplier colocará um fim em sua busca pela camiseta perfeita, para que você possa se concentrar em coisas mais importantes. Com interior em padrão Waffle, que drena a umidade da pele, esta nova camiseta mantém o usuário confortável e seco, enquanto seu fio resistente proporciona durabilidade e minimiza o encolhimento. Outras características desta peça são o colarinho canelado, a costura reforçada nos ombros, o clássico acabamento premium da Vans, um aplique bordado na altura do peito e uma presilha para pendurar em cabides em estampa checkerboard. A Off The Wall Color Multiplier será a última camiseta de que você precisará. Tipo de caimento: clássico. O modelo tem 1,82 m de altura e veste tamanho M.",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt4.webp"
     },
@@ -50,7 +50,7 @@
       "genre": "masculino",
       "brand": "Vans",
       "price": "259,00",
-      "color": "Estampado",
+      "color": ["Estampado", "#000000"],
       "description": "Clássico, confortável e essencial para qualquer estilo, o Seasonal Color Stripe Crew apresenta listras ousadas de fios tingidos em cores sazonais. Esta camiseta de malha e manga curta é feita com jersey de algodão compacto, e tem estilo tradicional de gola redonda para um apelo atemporal. O modelo tem 1,83 m de altura e usa tamanho Médio. 100% jersey de algodão compacto Listras quadriculadas de fios tingidos em toda a peça Estilo gola redonda Mangas curtas Logotipo no peito esquerdo.",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt5.webp"
     },
@@ -61,7 +61,7 @@
       "genre": "masculino",
       "brand": "Volcom",
       "price": "149,00",
-      "color": "Branco",
+      "color": ["Branco", "#FFFFFF"],
       "description": "Fundada na Califórnia em 1966, a VANS está envolvida com a cultura de rua, artes, música e ligada ao skate e à evolução do esporte, sem perder a essência. Dos clássicos aos modernos, a VANS possui uma enorme variedade de modelos de tênis, roupas e acessórios, sempre matendo o estilo Off The Wall. A camiseta Vans OTW de manga longa possui o clássico logo Off The Wall aplicado na altura do peito, gola e punhos canelados e é feita de 100% algodão. Tipo de caimento: custom. O modelo tem 1,82 e veste tamanho M.",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt6.webp"
     },
@@ -72,7 +72,7 @@
       "genre": "masculino",
       "brand": "Vans",
       "price": "279,00",
-      "color": "Vermelho",
+      "color": ["Vermelho", "#C11301"],
       "description": "A Vans orgulhosamente apresenta a coleção em parceria com a lenda do surfe e integrante da equipe global de Surf da Vans, Nathan Florence. A nova coleção foi desenvolvida trazendo o estilo único e a potência do surfista, dentro e fora da água, concebida para atender às necessidades de estilo e praticidade. Projetada para o conforto e funcionalidade, essa coleção inclui as silhuetas e vestuários favoritos do surfista. Todos os itens representam a marca registrada de Nathan com estampas em vermelho e preto.",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt7.webp"
     },
@@ -83,7 +83,7 @@
       "genre": "masculino",
       "brand": "Vans",
       "price": "251,00",
-      "color": "Amarelo",
+      "color": ["Amarelo", "#F6DD34"],
       "description": "",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt8.webp"
     },
@@ -94,7 +94,7 @@
       "genre": "masculino",
       "brand": "Vans",
       "price": "149,00",
-      "color": "Rosa",
+      "color": ["Rosa", "#C8418C"],
       "description": "Fundada em 1971 por Craig Sugihara, a Town & Country Surf Shop nasceu e continua sendo impulsionada pelas necessidades do surfista. Como pode ser visto em seu icônico logotipo yin e yang, o ethos fundamental da T&C está enraizado no equilíbrio. Esteja Craig modelando pranchas ou cuidando da comunidade de surf havaiana, ele garante que a dedicação da T&C à qualidade, busca por inovação, materiais de qualidade e paixão permaneçam na vanguarda de tudo o que fazem. Depois de todos esses anos, o T&C continua sendo propriedade e operado por Craig, o fundador original, cujo grom-like stoke o coloca regularmente no lineup ou ao redor da ilha desfrutando das amizades que só uma vida dedicada ao surf pode proporcionar. Em homenagem ao 50º aniversário da T&C, a Vans trabalhou em estreita colaboração com Craig para elevar a rica herança da T&C, ao mesmo tempo em que dá um aceno progressivo ao futuro da cultura do surf, oferecendo novas combinações de cores clássicas.",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt9.webp"
     },
@@ -105,7 +105,7 @@
       "genre": "masculino",
       "brand": "Vans",
       "price": "149,00",
-      "color": "Preto",
+      "color": ["Preto", "#000000"],
       "description": "",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt10.webp"
     },
@@ -116,7 +116,7 @@
       "genre": "masculino",
       "brand": "Volcom",
       "price": "129,00",
-      "color": "Vinho",
+      "color": ["Vinho", "#932836"],
       "description": "Camiseta Volcom Long Fit Solid Pocket. Possui modelagem long fit, estampa em silk frontal, assinatura Volcom na manga e viés contrastante. Disponível nas cores branco, preto, azul escuro e vinho.",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt11.webp"
     },
@@ -127,7 +127,7 @@
       "genre": "masculino",
       "brand": "Volcom",
       "price": "159,00",
-      "color": "Preto",
+      "color": ["Preto", "#000000"],
       "description": "Camiseta Volcom Manga Longa Chromestone. Possui modelagem regular, estampa em silk frontal e na manga e viés contrastante. Disponível nas cores branco e preto.",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt12.webp"
     },
@@ -138,7 +138,7 @@
       "genre": "masculino",
       "brand": "Volcom",
       "price": "159,00",
-      "color": "Verde",
+      "color": ["Verde", "#447831"],
       "description": "Camiseta Volcom Regular Solid Stone. Possui modelagem regular, bordado Volcom Stone frontal e lavanderia efeito ionizado. Disponível nas cores verde, amarelo e pink.",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt13.webp"
     },
@@ -149,7 +149,7 @@
       "genre": "masculino",
       "brand": "Volcom",
       "price": "129,00",
-      "color": "Vinho",
+      "color": ["Vinho", "#932836"],
       "description": "Camiseta Volcom Regular New Style. Possui modelagem regular, estampa em silk frontal em alto relevo, assinatura Volcom na manga e viés contrastante. Disponível nas cores branco, azul, amarelo e vinho.",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt14.webp"
     },
@@ -160,7 +160,7 @@
       "genre": "masculino",
       "brand": "Volcom",
       "price": "95,00",
-      "color": "Azul",
+      "color": ["Azul", "#5C6FCF"],
       "description": "Camiseta Volcom Regular Crisp Stone. Possui modelagem regular, estampa em silk frontal, assinatura Volcom na manga e viés contrastante. Confeccionada em tecido algodão. + Modelagem regular + Silk frontal + Assinatura Volcom na manga + Viés contrastante 100% Algodão",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt15.webp"
     },
@@ -171,7 +171,7 @@
       "genre": "masculino",
       "brand": "Volcom",
       "price": "129,00",
-      "color": "Azul Escuro",
+      "color": ["Azul", "#5C6FCF"],
       "description": "Camiseta Volcom Long Fit Solid Pocket. Possui modelagem long fit, estampa em silk frontal, assinatura Volcom na manga e viés contrastante. Disponível nas cores branco, preto, azul escuro e vinho.",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt16.webp"
     },
@@ -182,7 +182,7 @@
       "genre": "masculino",
       "brand": "Volcom",
       "price": "129,00",
-      "color": "Preto",
+      "color": ["Preto", "#000000"],
       "description": "Camiseta Volcom Long Fit Solid Pocket. Possui modelagem long fit, estampa em silk frontal, assinatura Volcom na manga e viés contrastante. Disponível nas cores branco, preto, azul escuro e vinho.",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt17.webp"
     },
@@ -193,7 +193,7 @@
       "genre": "masculino",
       "brand": "Volcom",
       "price": "95,00",
-      "color": "Amarelo",
+      "color": ["Amarelo", "#F6DD34"],
       "description": "Camiseta Volcom Regular Crisp Stone. Possui modelagem regular, estampa em silk frontal, assinatura Volcom na manga e viés contrastante. Confeccionada em tecido algodão. + Modelagem regular + Silk frontal + Assinatura Volcom na manga + Viés contrastante 100% Algodão",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt18.webp"
     },
@@ -204,7 +204,7 @@
       "genre": "masculino",
       "brand": "Volcom",
       "price": "103,00",
-      "color": "Verde",
+      "color": ["Verde", "#447831"],
       "description": "Camiseta Volcom Regular Hulala. Possui modelagem regular, estampa em silk frontal e nas costas, assinatura Volcom na manga e viés contrastante. Confeccionada em tecido algodão. + Modelagem regular + Silk frente e costas + Assinatura Volcom na manga + Viés contrastante 100% Algodão",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt19.webp"
     },
@@ -215,7 +215,7 @@
       "genre": "masculino",
       "brand": "Volcom",
       "price": "129,00",
-      "color": "Branco",
+      "color": ["Branco", "#FFFFFF"],
       "description": "Camiseta Volcom Long Fit Prickly. Possui modelagem long fit, estampa em silk frontal e nas costas, assinatura Volcom na manga e viés contrastante. Disponível nas cores branco, off white e militar.",
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt20.webp"
     }
