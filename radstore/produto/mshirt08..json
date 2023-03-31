@@ -3,6 +3,7 @@
     "id": "mshirt08",
     "name": "Square Peg Blue",
     "genre": "masculino",
+    "type": "camisa",
     "brand": "Volcom",
     "price": "251,00",
     "sizes": ["M", "G"],

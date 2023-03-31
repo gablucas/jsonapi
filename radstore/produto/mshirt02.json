@@ -3,6 +3,7 @@
     "id": "mshirt02",
     "name": "Anaheim Mashup Woven Black",
     "genre": "masculino",
+    "type": "camisa",
     "brand": "Vans",
     "price": "299,00",
     "sizes": ["PP", "P", "G", "GG"],

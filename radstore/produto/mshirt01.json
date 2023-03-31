@@ -3,6 +3,7 @@
     "id": "mshirt01",
     "name": "Woven Vans x Crayola Floral",
     "genre": "masculino",
+    "type": "camisa",
     "brand": "Vans",
     "price": "299,00",
     "sizes": ["P", "M", "G", "GG"],

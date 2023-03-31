@@ -3,6 +3,7 @@
     "id": "mshirt06",
     "name": "Solid Stone Off White",
     "genre": "masculino",
+    "type": "camisa",
     "brand": "Volcom",
     "price": "149,00",
     "sizes": ["PP", "P", "GG"],

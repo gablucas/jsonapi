@@ -3,6 +3,7 @@
     "id": "mshirt04",
     "name": "Houser SS Dress Blues Blue Coral",
     "genre": "masculino",
+    "type": "camisa",
     "brand": "Vans",
     "price": "169,00",
     "sizes": ["PP", "P", "M", "GG"],

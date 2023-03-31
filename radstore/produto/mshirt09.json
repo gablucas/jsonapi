@@ -3,6 +3,7 @@
     "id": "mshirt09",
     "name": "Skate Vital Woven Sunburst",
     "genre": "masculino",
+    "type": "camisa",
     "brand": "Volcom",
     "price": "293,00",
     "sizes": ["PP", "GG"],
