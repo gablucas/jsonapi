@@ -1,0 +1,13 @@
+{
+  "mshirt03": {
+    "id": "mshirt03",
+    "name": "Bayview LS II True Navy",
+    "genre": "masculino",
+    "brand": "Vans",
+    "price": "299,00",
+    "sizes": ["PP", "P", "M", "G"],
+    "color": ["Azul", "#5C6FCF"],
+    "description": "Camisa de manga longa confeccionada em algodão com bolsos frontais e fechamento frontal por botão.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt3.webp"
+  }
+}

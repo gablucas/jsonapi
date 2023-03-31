@@ -1,0 +1,13 @@
+{
+  "mshirt04": {
+    "id": "mshirt04",
+    "name": "Houser SS Dress Blues Blue Coral",
+    "genre": "masculino",
+    "brand": "Vans",
+    "price": "169,00",
+    "sizes": ["PP", "P", "M", "GG"],
+    "color": ["Azul", "#5C6FCF"],
+    "description": "A Houser Buttondown Shirt é uma camisa de manga curta em 100% algodão Oxford, com bolso no peito e design em bloco de cores. Tipo de caimento: clássico.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt4.webp"
+  }
+}

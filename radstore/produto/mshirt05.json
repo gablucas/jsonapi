@@ -1,0 +1,13 @@
+{
+  "mshirt05": {
+    "id": "mshirt05",
+    "name": "Box Flannel True Blue Oatmeal",
+    "genre": "masculino",
+    "brand": "Vans",
+    "price": "349,00",
+    "sizes": ["PP", "M", "GG"],
+    "color": ["Azul", "#5C6FCF"],
+    "description": "Um grande padrão dividido herringbone quadrado de flanela separa a Box Flannel Shirt dos demais xadrezes. Feito com algodão orgânico macio, este clássico de manga longa e botões, com bolsos duplos no peito é um básico versátil facilmente combinável ou para se usar sozinho. O modelo tem 1,83 m de altura e usa tamanho Médio. 100% algodão orgânico Mangas longas Herringbone quadrado de flanela Estilo de botão Bolsos duplos no peito.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt5.webp"
+  }
+}
