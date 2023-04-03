@@ -1,5 +1,198 @@
 {
-  "camisetas": [
+      "id": "mshirt01",
+      "name": "Woven Vans x Crayola Floral",
+      "genre": "masculino",
+      "type": "camisas",
+      "brand": "Vans",
+      "price": "299,00",
+      "sizes": ["P", "M", "G", "GG"],
+      "color": ["Preto", "#000000"],
+      "description": "Vans e Crayola se unem nesta temporada para criar uma coleção colorida de calçados e roupas. Com designs inspirados no visual clássico do Crayola em estilos icônicos da Vans, esta coleção celebra a criatividade de todos e as formas coloridas com que se expressam. Incentivando sua imaginação a correr solta, a camisa Woven Vans Crayola apresenta um padrão floral allover, inspirado nas cores icônicas do Crayola. Esta camisa também tem uma frente com botões, gola, mangas curtas e um bolso no lado esquerdo do peito.",
+      "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt1.webp"
+    },
+
+    {
+      "id": "mshirt02",
+      "name": "Anaheim Mashup Woven Black",
+      "genre": "masculino",
+      "type": "camisas",
+      "brand": "Vans",
+      "price": "299,00",
+      "sizes": ["PP", "P", "G", "GG"],
+      "color": ["Preto", "#000000"],
+      "description": "Camisa de manga curta estampada confeccionada em viscose com fechamento frontal por botões e aplicação de bolso no lado esquerdo do peito.",
+      "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt2.webp"
+    },
+
+    {
+      "id": "mshirt03",
+      "name": "Bayview LS II True Navy",
+      "genre": "masculino",
+      "type": "camisas",
+      "brand": "Vans",
+      "price": "299,00",
+      "sizes": ["PP", "P", "M", "G"],
+      "color": ["Azul", "#5C6FCF"],
+      "description": "Camisa de manga longa confeccionada em algodão com bolsos frontais e fechamento frontal por botão.",
+      "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt3.webp"
+    },
+
+    {
+      "id": "mshirt04",
+      "name": "Houser SS Dress Blues Blue Coral",
+      "genre": "masculino",
+      "type": "camisas",
+      "brand": "Vans",
+      "price": "169,00",
+      "sizes": ["PP", "P", "M", "GG"],
+      "color": ["Azul", "#5C6FCF"],
+      "description": "A Houser Buttondown Shirt é uma camisa de manga curta em 100% algodão Oxford, com bolso no peito e design em bloco de cores. Tipo de caimento: clássico.",
+      "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt4.webp"
+    },
+
+    {
+      "id": "mshirt05",
+      "name": "Box Flannel True Blue Oatmeal",
+      "genre": "masculino",
+      "type": "camisas",
+      "brand": "Vans",
+      "price": "349,00",
+      "sizes": ["PP", "M", "GG"],
+      "color": ["Azul", "#5C6FCF"],
+      "description": "Um grande padrão dividido herringbone quadrado de flanela separa a Box Flannel Shirt dos demais xadrezes. Feito com algodão orgânico macio, este clássico de manga longa e botões, com bolsos duplos no peito é um básico versátil facilmente combinável ou para se usar sozinho. O modelo tem 1,83 m de altura e usa tamanho Médio. 100% algodão orgânico Mangas longas Herringbone quadrado de flanela Estilo de botão Bolsos duplos no peito.",
+      "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt5.webp"
+    },
+
+    {
+      "id": "mshirt06",
+      "name": "Solid Stone Off White",
+      "genre": "masculino",
+      "type": "camisas",
+      "brand": "Volcom",
+      "price": "149,00",
+      "sizes": ["PP", "P", "GG"],
+      "color": ["Branco", "#FFFFFF"],
+      "description": "Camisa Volcom Solid Stone Branca. Confeccionado em algodão, possui modelagem regular, fechamento em botões e bordado Volcom frontal. + Modelagem regular + Fechamento em botões + Bordado Volcom frontal 100% Algodão.",
+      "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt6.webp"
+    },
+
+    {
+      "id": "mshirt07",
+      "name": "Leaf Spray Woven Black",
+      "genre": "masculino",
+      "type": "camisas",
+      "brand": "Volcom",
+      "price": "293,00",
+      "sizes": ["PP", "P", "M"],
+      "color": ["Preto", "#000000"],
+      "description": "Camisa Volcom Leaf Spray Woven. Possui modelagem regular, bolso frontal, estampa full print, bordado Volcom Stone nas costas e etiqueta Volcom no Bolso. Confeccionada em algodão e viscose. + Modelagem regular + Bolso frontal + Estampa full print + Bordado Volcom Stone nas costas + Etiqueta Volcom no bolso 55% Algodão / 45% Viscose.",
+      "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt7.webp"
+    },
+
+    {
+      "id": "mshirt08",
+      "name": "Square Peg Blue",
+      "genre": "masculino",
+      "type": "camisas",
+      "brand": "Volcom",
+      "price": "251,00",
+      "sizes": ["M", "G"],
+      "color": ["Azul", "#5C6FCF"],
+      "description": "Camisa Volcom Square Peg. Modelagem regular, possui bolso frontal e estampa full print. Além de um bordado Volcom Stone nas costas e etiqueta Volcom no bolso. Confeccionada em meia malha 30/1. Disponível na cor azul. + Modelagem regular + Bolso frontal + Estampa full print + Bordado Volcom Stone nas costas + Etiqueta Volcom no bolso 100% Algodão.",
+      "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt8.webp"
+    },
+
+    {
+      "id": "mshirt09",
+      "name": "Skate Vital Woven Sunburst",
+      "genre": "masculino",
+      "type": "camisas",
+      "brand": "Volcom",
+      "price": "293,00",
+      "sizes": ["PP", "GG"],
+      "color": ["Amarelo", "#F6DD34"],
+      "description": "Camisa Volcom Skate Vitalks Woven. Possui modelagem regular, bolso frontal, estampa full print e etiqueta Volcom no bolso. Confeccionada em viscose. + Modelagem regular + Bolso frontal + Estampa full print + Etiqueta Volcom no bolso 100% Viscose.",
+      "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt9.webp"
+    },
+
+    {
+      "id": "mshirt10",
+      "name": "Solid Stone Navy Blue",
+      "genre": "masculino",
+      "type": "camisas",
+      "brand": "Volcom",
+      "price": "174,00",
+      "sizes": ["P", "G"],
+      "color": ["Azul", "#5C6FCF"],
+      "description": "Camisa Volcom Solid Stone Azul Marinho. Confeccionado em algodão, possui modelagem regular, fechamento em botões e bordado Volcom frontal. + Modelagem regular + Fechamento em botões + Bordado Volcom frontal 100% Algodão.",
+      "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt10.webp"
+    },
+
+    {
+      "id": "wshirt11",
+      "name": "Retro Floral Woven",
+      "genre": "feminino",
+      "type": "camisas",
+      "brand": "Vans",
+      "price": "179,00",
+      "sizes": ["PP", "P", "M", "GG"],
+      "color": ["Rosa", "#C8418C"],
+      "description": "Camisa de manga curta confeccionada em algodão estampado com fechamento frontal por botão.",
+      "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt11.webp"
+    },
+
+    {
+      "id": "wshirt12",
+      "name": "Wyld Printed SS Top Disty Floral",
+      "genre": "feminino",
+      "type": "camisas",
+      "brand": "Vans",
+      "price": "199,00",
+      "sizes": ["M", "G", "GG"],
+      "color": ["Branco", "#FFFFFF"],
+      "description": "Com uma estampa floral fechada e inspirada no vintage, a Wyld Printed Top é uma blusa de tecido 100% viscose com mangas curtas e botões frontais. Os detalhes de gola notch e jugo elevam esse estilo atemporal. O modelo tem 1,75 m de altura e usa tamanho Pequeno.",
+      "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt12.webp"
+    },
+
+    {
+      "id": "wshirt13",
+      "name": "Woven Vans X Textured Waves",
+      "genre": "feminino",
+      "type": "camisas",
+      "brand": "Vans",
+      "price": "219,00",
+      "sizes": ["PP", "M", "GG"],
+      "color": ["Branco", "#FFFFFF"],
+      "description": "Camisa de manga curta confeccionada em viscose estampada com fechamento frontal por botão.",
+      "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt13.webp"
+    },
+
+    {
+      "id": "wshirt14",
+      "name": "Wovan Vans X Curren X Knost",
+      "genre": "feminino",
+      "type": "camisas",
+      "brand": "Vans",
+      "price": "399,00",
+      "sizes": ["PP", "P", "G", "GG"],
+      "color": ["Preto", "#000000"],
+      "description": "Ultrapassar os limites e pensar de forma diferente não é novidade para os surfistas da Vans, Alex Knost (de Costa Mesa, Califórnia) e Lee-Ann Curren (de Biarritz, França). Seja na água ou fora, eles sabem que a verdadeira autoexpressão significa ser você mesmo sem remorso. Nesta segunda temporada de sua coleção sem gênero da Vans, Alex e Lee-Ann trabalharam juntos para integrar novas cores e materiais, conduzindo uma abordagem única de progressão com produto e inclusão. A maneira deles de pensar fora das linhas, tanto na onda quanto fora, ganhou vida na nova Vans X Curren X Knost Shirt Com uma estampa de listras verticais inspirada nos interiores dos anos 70 e design automotivo, esta camisa de manga curta destaca uma estética clássica com toque retrô. Outras características notáveis incluem a gola contrastante, fechamento frontal com zíper, com um novo puxador de zíper com logotipo, e um caimento confortável e descontraído. Porque para Alex e Lee-Ann, trata-se de mais do que criar uma coleção em que as pessoas fiquem bem vestidas - trata-se de se sentir bem quando você a está usando. O modelo tem 1,75 m de altura e usa tamanho Pequeno. Coleção Alex Knost/Lee-Ann Curren 100% viscose rayon Mangas curtas Nova estampa de listras na frente Gola contrastante Fecho inteiro de zíper na frente Puxador de zíper com logotipo Bolso frontal no peito com debrum Caimento descontraído.",
+      "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt14.webp"
+    },
+
+    {
+      "id": "wshirt15",
+      "name": "Box Car LL Flannel",
+      "genre": "feminino",
+      "type": "camisas",
+      "brand": "Vans",
+      "price": "179,00",
+      "sizes": ["PP", "P", "M", "G", "GG"],
+      "color": ["Azul", "#5C6FCF"],
+      "description": "A camisa manga longa Vans Box Flannel Shirt é feita de 100% algodão. Possui tecido flanelado de fios tingidos, comprimento na altura da cintura.",
+      "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt15.webp"
+    },
+
     {
       "id": "mtshirt01",
       "name": "Classic Mini Dual Palm II SS True Blue White",
@@ -260,5 +453,4 @@
       "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt20.webp"
     }
 
-  ]
-}
+    
