@@ -130,71 +130,6 @@
   },
 
   {
-    "id": "wshirt11",
-    "name": "Retro Floral Woven",
-    "genre": "feminino",
-    "type": "camisas",
-    "brand": "Vans",
-    "price": "179,00",
-    "sizes": ["PP", "P", "M", "GG"],
-    "color": ["Rosa", "#C8418C"],
-    "description": "Camisa de manga curta confeccionada em algodão estampado com fechamento frontal por botão.",
-    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt11.webp"
-  },
-
-  {
-    "id": "wshirt12",
-    "name": "Wyld Printed SS Top Disty Floral",
-    "genre": "feminino",
-    "type": "camisas",
-    "brand": "Vans",
-    "price": "199,00",
-    "sizes": ["M", "G", "GG"],
-    "color": ["Branco", "#FFFFFF"],
-    "description": "Com uma estampa floral fechada e inspirada no vintage, a Wyld Printed Top é uma blusa de tecido 100% viscose com mangas curtas e botões frontais. Os detalhes de gola notch e jugo elevam esse estilo atemporal. O modelo tem 1,75 m de altura e usa tamanho Pequeno.",
-    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt12.webp"
-  },
-
-  {
-    "id": "wshirt13",
-    "name": "Woven Vans X Textured Waves",
-    "genre": "feminino",
-    "type": "camisas",
-    "brand": "Vans",
-    "price": "219,00",
-    "sizes": ["PP", "M", "GG"],
-    "color": ["Branco", "#FFFFFF"],
-    "description": "Camisa de manga curta confeccionada em viscose estampada com fechamento frontal por botão.",
-    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt13.webp"
-  },
-
-  {
-    "id": "wshirt14",
-    "name": "Wovan Vans X Curren X Knost",
-    "genre": "feminino",
-    "type": "camisas",
-    "brand": "Vans",
-    "price": "399,00",
-    "sizes": ["PP", "P", "G", "GG"],
-    "color": ["Preto", "#000000"],
-    "description": "Ultrapassar os limites e pensar de forma diferente não é novidade para os surfistas da Vans, Alex Knost (de Costa Mesa, Califórnia) e Lee-Ann Curren (de Biarritz, França). Seja na água ou fora, eles sabem que a verdadeira autoexpressão significa ser você mesmo sem remorso. Nesta segunda temporada de sua coleção sem gênero da Vans, Alex e Lee-Ann trabalharam juntos para integrar novas cores e materiais, conduzindo uma abordagem única de progressão com produto e inclusão. A maneira deles de pensar fora das linhas, tanto na onda quanto fora, ganhou vida na nova Vans X Curren X Knost Shirt Com uma estampa de listras verticais inspirada nos interiores dos anos 70 e design automotivo, esta camisa de manga curta destaca uma estética clássica com toque retrô. Outras características notáveis incluem a gola contrastante, fechamento frontal com zíper, com um novo puxador de zíper com logotipo, e um caimento confortável e descontraído. Porque para Alex e Lee-Ann, trata-se de mais do que criar uma coleção em que as pessoas fiquem bem vestidas - trata-se de se sentir bem quando você a está usando. O modelo tem 1,75 m de altura e usa tamanho Pequeno. Coleção Alex Knost/Lee-Ann Curren 100% viscose rayon Mangas curtas Nova estampa de listras na frente Gola contrastante Fecho inteiro de zíper na frente Puxador de zíper com logotipo Bolso frontal no peito com debrum Caimento descontraído.",
-    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt14.webp"
-  },
-
-  {
-    "id": "wshirt15",
-    "name": "Box Car LL Flannel",
-    "genre": "feminino",
-    "type": "camisas",
-    "brand": "Vans",
-    "price": "179,00",
-    "sizes": ["PP", "P", "M", "G", "GG"],
-    "color": ["Azul", "#5C6FCF"],
-    "description": "A camisa manga longa Vans Box Flannel Shirt é feita de 100% algodão. Possui tecido flanelado de fios tingidos, comprimento na altura da cintura.",
-    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shirts/shirt15.webp"
-  },
-
-  {
     "id": "mtshirt01",
     "name": "Classic Mini Dual Palm II SS True Blue White",
     "genre": "masculino",
@@ -452,5 +387,589 @@
     "color": ["Branco", "#FFFFFF"],
     "description": "Camiseta Volcom Long Fit Prickly. Possui modelagem long fit, estampa em silk frontal e nas costas, assinatura Volcom na manga e viés contrastante. Disponível nas cores branco, off white e militar.",
     "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/tshirts/tshirt20.webp"
-  }
+  },
+
+  {
+    "id": "mpants01",
+    "name": "Authentic Chino Baggy Black",
+    "genre": "masculino",
+    "type": "calcas",
+    "brand": "Vans",
+    "price": "449,00",
+    "sizes": ["36", "38", "40", "42", "44", "46" , "48" , "50"],
+    "color": ["Preto", "#000000"],
+    "description": "Ajuste, estilo e durabilidade — o caimento Authentic Chino. Pensamos muito em nossas calças, para que você não tenha que fazer isso. Uma calça chino versátil que oferece estilo e funcionalidade a um preço acessível, a Authentic Chino Baggy Pant permite que você deixe de se preocupar com seu equipamento e passe a se concentrar no skate. Estruturada com um tecido de sarja de algodão rígida, esta calça chino folgada apresenta os clássicos bolsos frontais chino com um novo bolso para moedas à direita, bolsos traseiros com fechamento de botões e detalhes bordados em Drop-V para reforço com um toque de tradição. Além disso, novos detalhes trazem muito do estilo Off The Wall a este item essencial do skate, incluindo o novo detalhe do passador de cinto em V no cós traseiro e a nova etiqueta original da Vans costurada na parte interna da bainha para adicionar um detalhe quando a barra da calça estiver dobrada. O modelo tem 1,82 m de altura e veste tamanho 32. • Tipo de caimento: Folgada - Folgada no quadril, coxa e pernas com cintura alta. • Estrutura de sarja pesada 100% algodão • Detalhes bordados em Drop-V para reforço • Bolsos frontais inclinados e curvos maximizam o acesso e mantêm o conteúdo seguro • Bolsos traseiros com fechamento de botões • Detalhe do passador de cinto em V no cós traseiro • Etiqueta em checkerboard original costurada na parte interna da bainha • Etiqueta original da Vans costurada na parte interna da bainha para adicionar um detalhe quando a barra da calça estiver dobrada • Abertura da perna: 39 cm",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/pants/pants01.webp"
+  },
+
+  {
+    "id": "mpants02",
+    "name": "Range Relaxed Elastic Chinois Green Grape Leaf White",
+    "genre": "masculino",
+    "type": "calcas",
+    "brand": "Vans",
+    "price": "399,00",
+    "sizes": ["36", "38", "40", "42", "44", "46" , "48" , "50"],
+    "color": ["Preto", "#447831"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/pants/pants02.webp"
+  },
+
+  {
+    "id": "mpants03",
+    "name": "Range Cargo Baggy Tapered Elastic Grape Leaf",
+    "genre": "masculino",
+    "type": "calcas",
+    "brand": "Vans",
+    "price": "499,00",
+    "sizes": ["36", "38", "40", "42", "44", "46" , "48" , "50"],
+    "color": ["Verde", "#447831"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/pants/pants03.webp"
+  },
+
+  {
+    "id": "mpants04",
+    "name": "Range Baggy Tapered Acid Wash Black",
+    "genre": "masculino",
+    "type": "calcas",
+    "brand": "Vans",
+    "price": "399,00",
+    "sizes": ["36", "38", "40", "42", "44", "46" , "48" , "50"],
+    "color": ["Preto", "#000000"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/pants/pants04.webp"
+  },
+
+  {
+    "id": "mpants05",
+    "name": "Authentic Chino Slim Asphalt",
+    "genre": "masculino",
+    "type": "calcas",
+    "brand": "Vans",
+    "price": "449,00",
+    "sizes": ["36", "38", "40", "42", "44", "46" , "48" , "50"],
+    "color": ["Cinza", "#535257"],
+    "description": "Caimento, estilo e durabilidade. Pensamos muito em nossas calças para que você não se preocupe com isso. Uma calça chino versátil que oferece estilo e funcionalidade, a Calça Authentic Chino Relaxed permite que você se concentre apenas em sua performace. Construída com tecido resistente, esta calça chino clássica apresenta bolsos frontais com um compartimento para moedas do lado direito, bolsos traseiros com fechos de botão e detalhes bordados em drop V para reforço. Além disso, novos detalhes trazem muito estilo “Off The Wall” para este item essencial, incluindo o novo detalhe do passador de cinto em “V” no cós traseiro e a nova etiqueta original flag da Vans costurada na parte interna da bainha para adicionar um detalhe quando a barra da calça estiver dobrada. O modelo tem 1,80m de altura e veste tamanho 42. Tipo de modelagem: Slim - Justa através do quadril e perna e barra. Circunferência da barra: 35.5 cm. Composição: 60% algodão, 38% poliéster e 2% elastano",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/pants/pants05.webp"
+  },
+
+  {
+    "id": "mpants06",
+    "name": "Authentic Chino Slim Black",
+    "genre": "masculino",
+    "type": "calcas",
+    "brand": "Vans",
+    "price": "449,00",
+    "sizes": ["36", "38", "40", "42", "44", "46" , "48" , "50"],
+    "color": ["Preto", "#000000"],
+    "description": "Caimento, estilo e durabilidade. Pensamos muito em nossas calças para que você não se preocupe com isso. Uma calça chino versátil que oferece estilo e funcionalidade, a Calça Authentic Chino Relaxed permite que você se concentre apenas em sua performace. Construída com tecido resistente, esta calça chino clássica apresenta bolsos frontais com um compartimento para moedas do lado direito, bolsos traseiros com fechos de botão e detalhes bordados em drop V para reforço. Além disso, novos detalhes trazem muito estilo “Off The Wall” para este item essencial, incluindo o novo detalhe do passador de cinto em “V” no cós traseiro e a nova etiqueta original flag da Vans costurada na parte interna da bainha para adicionar um detalhe quando a barra da calça estiver dobrada. O modelo tem 1,80m de altura e veste tamanho 42. Tipo de modelagem: Slim - Justa através do quadril e perna e barra. Circunferência da barra: 35.5 cm. Composição: 60% algodão, 38% poliéster e 2% elastano",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/pants/pants06.webp"
+  },
+
+  {
+    "id": "mpants07",
+    "name": "Authentic Chino Relaxed Black",
+    "genre": "masculino",
+    "type": "calcas",
+    "brand": "Vans",
+    "price": "449,00",
+    "sizes": ["36", "38", "40", "42", "44", "46" , "48" , "50"],
+    "color": ["Preto", "#000000"],
+    "description": "Caimento, estilo e durabilidade. Pensamos muito em nossas calças para que você não se preocupe com isso. Uma calça chino versátil que oferece estilo e funcionalidade, a Calça Authentic Chino Relaxed permite que você se concentre apenas em sua performace. Construída com tecido resistente, esta calça chino clássica apresenta bolsos frontais com um compartimento para moedas do lado direito, bolsos traseiros com fechos de botão e detalhes bordados em drop V para reforço. Além disso, novos detalhes trazem muito estilo “Off The Wall” para este item essencial, incluindo o novo detalhe do passador de cinto em “V” no cós traseiro e a nova etiqueta original flag da Vans costurada na parte interna da bainha para adicionar um detalhe quando a barra da calça estiver dobrada. O modelo tem 1,80m de altura e veste tamanho 42. Tipo de modelagem: Slim - Justa através do quadril e perna e barra. Circunferência da barra: 35.5 cm. Composição: 60% algodão, 38% poliéster e 2% elastano",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/pants/pants07.webp"
+  },
+
+  {
+    "id": "mpants08",
+    "name": "Authentic Chino Slim Dirt",
+    "genre": "masculino",
+    "type": "calcas",
+    "brand": "Vans",
+    "price": "449,00",
+    "sizes": ["36", "38", "40", "42", "44", "46" , "48" , "50"],
+    "color": ["Bege", "#91704C"],
+    "description": "Caimento, estilo e durabilidade. Pensamos muito em nossas calças para que você não se preocupe com isso. Uma calça chino versátil que oferece estilo e funcionalidade, a Calça Authentic Chino Relaxed permite que você se concentre apenas em sua performace. Construída com tecido resistente, esta calça chino clássica apresenta bolsos frontais com um compartimento para moedas do lado direito, bolsos traseiros com fechos de botão e detalhes bordados em drop V para reforço. Além disso, novos detalhes trazem muito estilo “Off The Wall” para este item essencial, incluindo o novo detalhe do passador de cinto em “V” no cós traseiro e a nova etiqueta original flag da Vans costurada na parte interna da bainha para adicionar um detalhe quando a barra da calça estiver dobrada. O modelo tem 1,80m de altura e veste tamanho 42. Tipo de modelagem: Slim - Justa através do quadril e perna e barra. Circunferência da barra: 35.5 cm. Composição: 60% algodão, 38% poliéster e 2% elastano",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/pants/pants08.webp"
+  },
+
+  {
+    "id": "mpants09",
+    "name": "Authentic Chino Loose Grape Leaf",
+    "genre": "masculino",
+    "type": "calcas",
+    "brand": "Vans",
+    "price": "449,00",
+    "sizes": ["36", "38", "40", "42", "44", "46" , "48" , "50"],
+    "color": ["Verde", "#447831"],
+    "description": "Caimento, estilo e durabilidade. Pensamos muito em nossas calças para que você não se preocupe com isso. Uma calça chino versátil que oferece estilo e funcionalidade, a Calça Authentic Chino Relaxed permite que você se concentre apenas em sua performace. Construída com tecido resistente, esta calça chino clássica apresenta bolsos frontais com um compartimento para moedas do lado direito, bolsos traseiros com fechos de botão e detalhes bordados em drop V para reforço. Além disso, novos detalhes trazem muito estilo “Off The Wall” para este item essencial, incluindo o novo detalhe do passador de cinto em “V” no cós traseiro e a nova etiqueta original flag da Vans costurada na parte interna da bainha para adicionar um detalhe quando a barra da calça estiver dobrada. O modelo tem 1,80m de altura e veste tamanho 42. Tipo de modelagem: Loose - Folgada através do quadril e perna e barra. Circunferência da barra: 46.9 cm. Composição: 64% poliéster, 34% algodão e 2% elastano.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/pants/pants09.webp"
+  },
+
+  {
+    "id": "mpants10",
+    "name": "Authentic Chino Relaxed Nutria",
+    "genre": "masculino",
+    "type": "calcas",
+    "brand": "Vans",
+    "price": "449,00",
+    "sizes": ["36", "38", "40", "42", "44", "46" , "48" , "50"],
+    "color": ["Bege", "#91704C"],
+    "description": "Caimento, estilo e durabilidade. Pensamos muito em nossas calças para que você não se preocupe com isso. Uma calça chino versátil que oferece estilo e funcionalidade, a Calça Authentic Chino Relaxed permite que você se concentre apenas em sua performace. Construída com tecido resistente, esta calça chino clássica apresenta bolsos frontais com um compartimento para moedas do lado direito, bolsos traseiros com fechos de botão e detalhes bordados em drop V para reforço. Além disso, novos detalhes trazem muito estilo “Off The Wall” para este item essencial, incluindo o novo detalhe do passador de cinto em “V” no cós traseiro e a nova etiqueta original flag da Vans costurada na parte interna da bainha para adicionar um detalhe quando a barra da calça estiver dobrada. O modelo tem 1,80m de altura e veste tamanho 42. Tipo de modelagem: Relaxed - folgado através do quadril e perna com um leve ajuste na barra. Circunferência da barra: 43.2 cm. Composição: 64% poliéster, 34% algodão e 2% elastano.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/pants/pants10.webp"
+  },
+
+  {
+    "id": "mshorts01",
+    "name": "Primary Elast Duct Tape Black",
+    "genre": "masculino",
+    "type": "shorts",
+    "brand": "Vans",
+    "price": "429,00",
+    "sizes": ["36", "38", "40", "42", "44", "46" , "48" , "50"],
+    "color": ["Preto", "#000000"],
+    "description": "Celebrando a evolução e o legado cultural do surf clássico, a plataforma Vans Duct Tape Invitational & Festival inicia sua 11ª temporada, pela primeira vez na América do Sul, desembarcando ineditamente no Brasil. Localizado na icônica Praia da Macumba, Rio de Janeiro, berço dos percursores do longboard clássico no país, como Rico de Souza e Daniel Friedman, e também de surfistas da nova geração como Jasmim Avelino e Yanca Costa. Conectado intrinsicamente com a comunidade local através da arte, música, skate, criatividade e sustentabilidade, o Vans Duct Tape Invitational & Festival celebra o estilo de vida do surf clássico em um evento esportivo e cultural.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shorts/shorts01.webp"
+  },
+
+  {
+    "id": "mshorts02",
+    "name": "Voyage Tie Dye Chinois Green Grape Leaf White",
+    "genre": "masculino",
+    "type": "shorts",
+    "brand": "Vans",
+    "price": "479,00",
+    "sizes": ["36", "38", "40", "42", "44", "46" , "48" , "50"],
+    "color": ["Verde", "#447831"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shorts/shorts02.webp"
+  },
+
+  {
+    "id": "mshorts03",
+    "name": "Surf Trunk 3 Chinois Green Grape Leaf White",
+    "genre": "masculino",
+    "type": "shorts",
+    "brand": "Vans",
+    "price": "499,00",
+    "sizes": ["36", "38", "40", "42", "44", "46" , "48" , "50"],
+    "color": ["Verde", "#447831"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shorts/shorts03.webp"
+  },
+
+  {
+    "id": "mshorts04",
+    "name": "Authentic Chino Relaxed Black",
+    "genre": "masculino",
+    "type": "shorts",
+    "brand": "Vans",
+    "price": "349,00",
+    "sizes": ["36", "38", "40", "42", "44", "46" , "48" , "50"],
+    "color": ["Preto", "#000000"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shorts/shorts04.webp"
+  },
+
+  {
+    "id": "mshorts05",
+    "name": "Range Relaxed Elastic Checkerboard",
+    "genre": "masculino",
+    "type": "shorts",
+    "brand": "Vans",
+    "price": "329,00",
+    "sizes": ["36", "38", "40", "42", "44", "46" , "48" , "50"],
+    "color": ["Preto", "#000000"],
+    "description": "Caimento, estilo e durabilidade. Pensamos muito em nossas calças para que você não se preocupe com isso. Uma calça chino versátil que oferece estilo e funcionalidade, a Calça Authentic Chino Relaxed permite que você se concentre apenas em sua performace. Construída com tecido resistente, esta calça chino clássica apresenta bolsos frontais com um compartimento para moedas do lado direito, bolsos traseiros com fechos de botão e detalhes bordados em drop V para reforço. Além disso, novos detalhes trazem muito estilo “Off The Wall” para este item essencial, incluindo o novo detalhe do passador de cinto em “V” no cós traseiro e a nova etiqueta original flag da Vans costurada na parte interna da bainha para adicionar um detalhe quando a barra da calça estiver dobrada. O modelo tem 1,80m de altura e veste tamanho 42. Tipo de modelagem: Slim - Justa através do quadril e perna e barra. Circunferência da barra: 35.5 cm. Composição: 60% algodão, 38% poliéster e 2% elastano",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shorts/shorts05.webp"
+  },
+
+  {
+    "id": "mshorts06",
+    "name": "Authentic Chino Relaxed Dirt",
+    "genre": "masculino",
+    "type": "shorts",
+    "brand": "Vans",
+    "price": "449,00",
+    "sizes": ["36", "38", "40", "42", "44", "46" , "48" , "50"],
+    "color": ["Bege", "#91704C"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shorts/shorts06.webp"
+  },
+
+  {
+    "id": "mshorts07",
+    "name": "Range Relaxed Elastic Short Grape Leaf",
+    "genre": "masculino",
+    "type": "shorts",
+    "brand": "Vans",
+    "price": "349,00",
+    "sizes": ["36", "38", "40", "42", "44", "46" , "48" , "50"],
+    "color": ["Verde", "#447831"],
+    "description": "Com foco no conforto que nunca sacrifica o estilo, os Vans Range Shorts são construídos em torno de um cós elástico fácil de puxar, para uso diário o dia todo. Com uma cintura regular no cós, com fecho de cordão para um ajuste ainda mais personalizado, o Range Relaxed Elastic Short é feito com uma mistura de algodão orgânico e elastano para elasticidade suave e um ajuste fácil de usar. Os bolsos dianteiros para mãos e os bolsos traseiros oferecem muita portabilidade para guardar e levar, enquanto detalhes sutis da marca mantêm o estilo no ponto: O bordado de travetes drop-V fornece reforço com um toque tradicional, e um laço de chave no cós traseiro direito mantém seus itens essenciais facilmente ao seu alcance. O modelo tem 1,83 m de altura e usa tamanho Médio. Tipo de caimento: Descontraído – confortável no quadril e na coxa com cintura regular. Fabricação elástica macia feita de 98% algodão orgânico e 2% elastano O cós elástico fácil de puxar combina conforto com o estilo da moda Bolsos frontais e traseiros de debrum Travetes Drop V bordados Detalhe do laço de chave no cós traseiro direito Costura Externa: 45,7 centímetros"
+  },
+
+  {
+    "id": "mshorts08",
+    "name": "The Daily Solid Black",
+    "genre": "masculino",
+    "type": "shorts",
+    "brand": "Vans",
+    "price": "329,00",
+    "sizes": ["36", "38", "40", "42", "44", "46" , "48" , "50"],
+    "color": ["Preto", "#000000"],
+    "description": ""
+  },
+
+  {
+    "id": "mshorts09",
+    "name": "Primary Solid Elastic Narcissus",
+    "genre": "masculino",
+    "type": "shorts",
+    "brand": "Vans",
+    "price": "399,00",
+    "sizes": ["36", "38", "40", "42", "44", "46" , "48" , "50"],
+    "color": ["Amarelo", "#F6DD34"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shorts/shorts09.webp"
+  },
+
+  {
+    "id": "mshorts10",
+    "name": "The Daily Solid Vans Teal",
+    "genre": "masculino",
+    "type": "shorts",
+    "brand": "Vans",
+    "price": "379,00",
+    "sizes": ["36", "38", "40", "42", "44", "46" , "48" , "50"],
+    "color": ["Azul", "#5C6FCF"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/shorts/shorts10.webp"
+  },
+
+  {
+    "id": "hoodies01",
+    "name": "Versa Standard Hoodie Black Checkerboard",
+    "genre": "masculino",
+    "type": "moletons",
+    "brand": "Vans",
+    "price": "499,00",
+    "sizes": ["PP", "P", "M", "G", "GG"],
+    "color": ["Preto", "#000000"],
+    "description": "Desenvolvido com o skate em mente, o Versa Standard Hoodie, de design especializado, traz recursos de desempenho para suportar os elementos sem sacrificar aquela estética atemporal da Vans. Com moletom premium com fio de algodão da mais alta qualidade no lado externo para suportar mais abrasão e aumentar a durabilidade, tem, também, revestimento Durable Water Repellent para manter você seco. Este moletom está pronto para o que vier. Mangas raglan clássicas, um bolso frontal, logotipo no centro e estampas gráficas checkerboard na manga direita aprimoram o design já consagrado. O modelo tem 1,82 m de altura e veste tamanho médio (M). • MESCLA DE TECIDO DURÁVEL - Moletom premium 88% algodão, 12% poliéster com fios de algodão de alta qualidade no lado externo para suportar mais abrasão e aumentar a durabilidade. • ACABAMENTO DURABLE WATER REPELENT (DWR) - O revestimento DURABLE WATER REPELLENT (DWR) repele a água para que você possa ficar mais seco, por mais tempo. • DETALHES CLÁSSICOS DA VANS - A arte em serigrafia do logotipo e do checkerboard mantêm a estética atemporal da Vans.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/hoodies/hoodies01.webp"
+  },
+
+  {
+    "id": "hoodies02",
+    "name": "Po Growth Garden Rose Smoke",
+    "genre": "masculino",
+    "type": "moletons",
+    "brand": "Vans",
+    "price": "549,00",
+    "sizes": ["PP", "P", "M", "G", "GG"],
+    "color": ["Rosa", "#C8418C"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/hoodies/hoodies02.webp"
+  },
+
+  {
+    "id": "hoodies03",
+    "name": "Classic Po Hoodie Ii Cement Heather Black",
+    "genre": "masculino",
+    "type": "moletons",
+    "brand": "Vans",
+    "price": "349,00",
+    "sizes": ["PP", "P", "M", "G", "GG"],
+    "color": ["Cinza", "#535257"],
+    "description": "Fundada na Califórnia em 1966, a VANS está envolvida com a cultura de rua, artes, música e ligada ao skate e à evolução do esporte, sem perder a essência. Dos clássicos aos modernos, a VANS possui uma enorme variedade de modelos de tênis, roupas e acessórios, sempre matendo o estilo "Off The Wall". O moletom com capuz Vans Classic possui o logo Vans " drop V" aplicado na altura do peito, etiqueta com logo Vans aplicada na lateral, capuz com cordão para regulagem, bolso estilo canguru, barra e punhos canelados e é feito de 71% algodão e 29% poliéster. Tipo de caimento: clássico. O modelo tem 1,82 e veste tamanho M.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/hoodies/hoodies03.webp"
+  },
+
+  {
+    "id": "hoodies04",
+    "name": "Full Patched Po Ll Black",
+    "genre": "masculino",
+    "type": "moletons",
+    "brand": "Vans",
+    "price": "379,00",
+    "sizes": ["PP", "P", "M", "G", "GG"],
+    "color": ["Preto", "#000000"],
+    "description": "Fundada na Califórnia em 1966, a VANS está envolvida com a cultura de rua, artes, música e ligada ao skate e à evolução do esporte, sem perder a essência. Dos clássicos aos modernos, a VANS possui uma enorme variedade de modelos de tênis, roupas e acessórios, sempre matendo o estilo "Off The Wall". O moletom com capuz Vans Full Patched possui o logo Vans " full patch" aplicado na altura do peito do lado esquerdo e nas costas, etiqueta com logo Vans aplicada na lateral, capuz com cordão para regulagem, bolso estilo canguru, barra e punhos canelados e é feito de 53% algodão e 47% poliéster. Tipo de caimento: clássico. O modelo tem 1,82 e veste tamanho M.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/hoodies/hoodies04.webp"
+  },
+
+  {
+    "id": "hoodies05",
+    "name": "Fleece Po Vans X Sandy Liang Mountain View",
+    "genre": "masculino",
+    "type": "moletons",
+    "brand": "Vans",
+    "price": "399,00",
+    "sizes": ["PP", "P", "M", "G", "GG"],
+    "color": ["Verde", "#447831"],
+    "description": "Vans e Sandy Liang se reuniram com uma coleção de roupas e calçados inspirada nas décadas de 1990 e 2000. Com um toque de nostalgia extravagante, Sandy Liang eleva os estilos icônicos e amados dos Vans com detalhes inovadores e referências à cidade de Nova Iorque. A coleção ganha vida por meio de texturas elevadas, esboços divertidos e motivos exclusivos de Sandy Liang. Com bordado no peito saindo diretamente de uma memória de infância, o Vans X Sandy Liang Fleece Pullover Hoodie é confeccionado em french terry de algodão macio e tem o estilo clássico do capuz com um bolso frontal. O modelo tem 1,83 m de altura e usa tamanho Médio. • Coleção Vans X Sandy Liang • French terry 100% algodão • Moletom tipo pulôver com capuz • Bordado na frente",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/hoodies/hoodies05.webp"
+  },
+
+  {
+    "id": "hoodies06",
+    "name": "Skate Classics Crew Duck Green",
+    "genre": "masculino",
+    "type": "moletons",
+    "brand": "Vans",
+    "price": "399,00",
+    "sizes": ["PP", "P", "M", "G", "GG"],
+    "color": ["Verde", "#447831"],
+    "description": "Feito de lã macia escovada na parte de trás, o Skate Classics Crew Sweatshirt possui um estilo pulôver atemporal de gola redonda e gráficos no peito esquerdo que transformam nosso icônico logotipo em V em um cadeado. O modelo tem 1,83 m de altura e usa tamanho Médio. 80% algodão, 20% poliéster Lã escovada na parte de trás Estilo gola redonda Serigrafia do logotipo no peito esquerdo",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/hoodies/hoodies06.webp"
+  },
+
+  {
+    "id": "hoodies07",
+    "name": "In Our Hands Po Deep Teal",
+    "genre": "masculino",
+    "type": "moletons",
+    "brand": "Vans",
+    "price": "499,00",
+    "sizes": ["PP", "P", "M", "G", "GG"],
+    "color": ["Verde", "#447831"],
+    "description": "Paz, Amor e Vans. O In Our Hands Pullover espalha a mensagem positiva com gráficos florais na frente, com um sinal de paz, o planeta Terra, e um aplique na manga floral que arremata o design. Este moletom pulôver com capuz é feito com uma mistura macia de 60% algodão orgânico e 40% poliéster reciclado.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/hoodies/hoodies07.webp"
+  },
+
+  {
+    "id": "hoodies08",
+    "name": "Classic Crew Ll Black White",
+    "genre": "masculino",
+    "type": "moletons",
+    "brand": "Vans",
+    "price": "379,00",
+    "sizes": ["PP", "P", "M", "G", "GG"],
+    "color": ["Preto", "#000000"],
+    "description": "Fundada na Califórnia em 1966, a VANS está envolvida com a cultura de rua, artes, música e ligada ao skate e à evolução do esporte, sem perder a essência. Dos clássicos aos modernos, a VANS possui uma enorme variedade de modelos de tênis, roupas e acessórios, sempre matendo o estilo "Off The Wall". O moletom Vans Classic Crew possui o logo Vans " drop V" aplicado na altura do peito, etiqueta com logo Vans aplicada na lateral, gola, barra e punhos canelados e é feito de 71% algodão e 29% poliéster. Tipo de caimento: clássico. O modelo tem 1,82 e veste tamanho M.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/hoodies/hoodies08.webp"
+  },
+
+  {
+    "id": "hoodies09",
+    "name": "Fleece Po Vans X One Piece",
+    "genre": "masculino",
+    "type": "moletons",
+    "brand": "Vans",
+    "price": "379,00",
+    "sizes": ["PP", "P", "M", "G", "GG"],
+    "color": ["Cinza", "#535257"],
+    "description": "Junte-se a Monkey D. Luffy e sua tripulação do chapéu de palha em sua busca pelo tesouro supremo, o One Piece, com essa coleção exclusiva Vans x One Piece. Por mais que tentem, poucos podem negar a importância de One Piece, uma das séries de mangá e anime mais vendidas e aclamadas dos últimos tempos. E ao longo desta última década, o autor Eiichiro Oda continuou a dar vida e cor ao mundo da série, imergindo ainda mais milhões de fãs nesta jornada do Chapéu de Palha e seus amigos para encontrar o lendário tesouro de One Piece.Após vários desenvolvimentos incríveis da trama, Monkey D. Luffy e sua tripulação estão finalmente vendo uma coleção colaborativa - e tudo graças à Vans. Juntos, Vans e One Piece prepararam uma coleção de calçados, roupas e acessórios digna do Rei dos Piratas.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/hoodies/hoodies09.webp"
+  },
+
+  {
+    "id": "hoodies10",
+    "name": "Permanent Vacation Crew Black",
+    "genre": "masculino",
+    "type": "moletons",
+    "brand": "Vans",
+    "price": "329,00",
+    "sizes": ["PP", "P", "M", "G", "GG"],
+    "color": ["Preto", "#000000"],
+    "description": "Toda originalidade de um clássico Vans para agregar ao seu estilo. O moletom masculino SS Permanent Vacation Crew Black traz atitude para o seu lifestyle. Versátil, ele permite o uso em diversas ocasiões, seja uma proposta mais casual ou na prática de esportes. Na cor preta, o moletom careca é confeccionado em poliéster e algodão, com aplicação de rib no punho, na barra e na gola. Apresenta uma silhueta oversized no comprimento, com estampa frontal em silk à base d’água, com referência na arte da icônica caveira “Off The Wall”, um toque descolado e totalmente descontraído para te esquentar nos dias mais amenos e combinar com todos os seus clássicos Vans.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/hoodies/hoodies10.webp"
+  },
+
+  {
+    "id": "jackets01",
+    "name": "Riley Black",
+    "genre": "masculino",
+    "type": "jaquetas",
+    "brand": "Vans",
+    "price": "599,00",
+    "sizes": ["PP", "P", "M", "G", "GG"],
+    "color": ["Preto", "#000000"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/jackets/jackets01.webp"
+  },
+
+  {
+    "id": "jackets02",
+    "name": "Coyle Cropped Bomber Green",
+    "genre": "masculino",
+    "type": "jaquetas",
+    "brand": "Vans",
+    "price": "599,00",
+    "sizes": ["PP", "P", "M", "G", "GG"],
+    "color": ["Verde", "#447831"],
+    "description": "A jaqueta Coyle Cropped Bomber Jacket brinca com um design icônico e mistura as estéticas moderna e retrô. Essa jaqueta totalmente forrada é feita em 100% sarja de algodão confortável e, como acabamento, tem um patch atemporal da Vans no lado esquerdo do peito. O modelo tem 1,82 m de altura e veste tamanho médio (M).",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/jackets/jackets02.webp"
+  },
+
+  {
+    "id": "jackets03",
+    "name": "Torrey Black",
+    "genre": "masculino",
+    "type": "jaquetas",
+    "brand": "Vans",
+    "price": "459,00",
+    "sizes": ["PP", "P", "M", "G", "GG"],
+    "color": ["Preto", "#000000"],
+    "description": "Fundada na Califórnia em 1966, a VANS está envolvida com a cultura de rua, artes, música e ligada ao skate e à evolução do esporte, sem perder a essência. Dos clássicos aos modernos, a VANS possui uma enorme variedade de modelos de tênis, roupas e acessórios, sempre matendo o estilo "Off The Wall". Reminiscente das jaquetas esportivas retrô, a jaqueta Torrey é feita com um revestimento de poliéster resistente à água e forro de poliéster para maior conforto. Juntamente com o logotipo Vans checkerboard no peito esquerdo, esta jaqueta coach fácil de usar tem um fechamento frontal com botões, bolsos para as mãos, elástico nos punhos e um cordão na barra para um ajuste personalizável. O modelo tem 1,80m de altura e veste tamanho M. • 100% poliéster • Resistente à água • Logótipo serigrafado no peito esquerdo • Bolsos com fenda na cintura",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/jackets/jackets03.webp"
+  },
+
+  {
+    "id": "jackets04",
+    "name": "Hellfire Club Jean Vans X Stranger Things",
+    "genre": "masculino",
+    "type": "jaquetas",
+    "brand": "Vans",
+    "price": "999,00",
+    "sizes": ["PP", "P", "M", "G", "GG"],
+    "color": ["Preto", "#000000"],
+    "description": "Vans, a marca original de esportes de ação, celebra a autoexpressão criativa e a cultura jovem em uma coleção de tênis, roupas e acessórios inspirados nas aventuras dos personagens de “Stranger Things”, da Netflix, em sua 4ª temporada.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/jackets/jackets04.webp"
+  },
+
+  {
+    "id": "jackets05",
+    "name": "Torrey Skate Duck Green",
+    "genre": "masculino",
+    "type": "jaquetas",
+    "brand": "Vans",
+    "price": "399,00",
+    "sizes": ["PP", "P", "M", "G", "GG"],
+    "color": ["Verde", "#447831"],
+    "description": "Fazendo alusão às jaquetas esportivas retrô, a Torrey Skate Jacket é confeccionada em lona de algodão orgânico para uma vibe old school de roupa de trabalho. Junto a detalhes de serigrafia no peito esquerdo, esta jaqueta coach fácil de usar tem fechamento frontal com botões, bolsos com fenda nos quadris, e um cordão na bainha para um ajuste personalizável. O modelo tem 1,83 m de altura e usa tamanho Médio. 100% lona de algodão orgânico Fechamento frontal com botões Detalhes de serigrafia no peito esquerdo Bolsos com fendas nos quadris Cordão na bainha",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/jackets/jackets05.webp"
+  },
+
+  {
+    "id": "jackets06",
+    "name": "Summer Camp Windbreaker Green Milieu Dress Blues",
+    "genre": "masculino",
+    "type": "jaquetas",
+    "brand": "Vans",
+    "price": "429,00",
+    "sizes": ["PP", "P", "M", "G", "GG"],
+    "color": ["Cinza", "#535257"],
+    "description": "Corta-vento compactável confeccionada em poliamida com forro em poliéster, fechamento frontal por meio zíper, bolsos embutido e logo estampado no peito esquerdo.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/jackets/jackets06.webp"
+  },
+
+  {
+    "id": "jackets07",
+    "name": "Torrey True Navy",
+    "genre": "masculino",
+    "type": "jaquetas",
+    "brand": "Vans",
+    "price": "319,00",
+    "sizes": ["PP", "P", "M", "G", "GG"],
+    "color": ["Azul", "#5C6FCF"],
+    "description": "Jaqueta confeccionada em poliamida repelente a água com gola esporte, bolso frontal embutido, aplicação de logo no lado esquerdo do peito, fechamento por botões de pressão e detalhe de cordão na barra.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/jackets/jackets07.webp"
+  },
+
+  {
+    "id": "jackets08",
+    "name": "Torrey Hooded Raglan Mte",
+    "genre": "masculino",
+    "type": "jaquetas",
+    "brand": "Vans",
+    "price": "399,00",
+    "sizes": ["PP", "P", "M", "G", "GG"],
+    "color": ["Branco", "#FFFFFF"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/jackets/jackets08.webp"
+  },
+
+  {
+    "id": "jackets09",
+    "name": "Torrey",
+    "genre": "masculino",
+    "type": "jaquetas",
+    "brand": "Vans",
+    "price": "329,00",
+    "sizes": ["PP", "P", "M", "G", "GG"],
+    "color": ["Verde", "#447831"],
+    "description": "A jaqueta Vans Torrey é feita de tecido impermeável 100% nylon, com forro 100% poliéster. Possui logo VANS estampado na lateral direita do peito, fechamento com botões de pressão, punho com elástico ajustável, ajuste na barra com cordão de algodão, cava raglan e bolsos faca com vista nas laterais .",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/jackets/jackets09.webp"
+  },
+
+  {
+    "id": "jackets10",
+    "name": "Torrey Skate Vans X Tyson Peterson",
+    "genre": "masculino",
+    "type": "jaquetas",
+    "brand": "Vans",
+    "price": "499,00",
+    "sizes": ["PP", "P", "M", "G", "GG"],
+    "color": ["Cinza", "#535257"],
+    "description": "Muitos ouviram falar pela primeira vez de Tyson Peterson quando ele apareceu como destaque no vídeo “Next Wave” da The Skateboard Mag e na versão impressa da revista. Com os dreads em chamas, Tyson impressionou ao misturar técnica e garra com uma execução fluída e presença plácida. Chegando com os dois pés na porta na edição da Spinning Away da Vans para a web (2018), Tyson colocou à mostra sua habilidade e criatividade, provando que não apenas aparece, mas também monta qualquer palco. Ajudando a ampliar os limites do que é possível sobre quatro rodas, a Tyson Peterson Torrey Skate Jacket é confeccionada em 100% algodão. O modelo tem 1,82 m de altura e usa tamanho Médio.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/mens/clothes/jackets/jackets10.webp"
+  },
+
+  {
+    "id": "wshirt11",
+    "name": "Retro Floral Woven",
+    "genre": "feminino",
+    "type": "camisas",
+    "brand": "Vans",
+    "price": "179,00",
+    "sizes": ["PP", "P", "M", "GG"],
+    "color": ["Rosa", "#C8418C"],
+    "description": "Camisa de manga curta confeccionada em algodão estampado com fechamento frontal por botão.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/womans/clothes/shirts/shirt11.webp"
+  },
+
+  {
+    "id": "wshirt12",
+    "name": "Wyld Printed SS Top Disty Floral",
+    "genre": "feminino",
+    "type": "camisas",
+    "brand": "Vans",
+    "price": "199,00",
+    "sizes": ["M", "G", "GG"],
+    "color": ["Branco", "#FFFFFF"],
+    "description": "Com uma estampa floral fechada e inspirada no vintage, a Wyld Printed Top é uma blusa de tecido 100% viscose com mangas curtas e botões frontais. Os detalhes de gola notch e jugo elevam esse estilo atemporal. O modelo tem 1,75 m de altura e usa tamanho Pequeno.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/womans/clothes/shirts/shirt12.webp"
+  },
+
+  {
+    "id": "wshirt13",
+    "name": "Woven Vans X Textured Waves",
+    "genre": "feminino",
+    "type": "camisas",
+    "brand": "Vans",
+    "price": "219,00",
+    "sizes": ["PP", "M", "GG"],
+    "color": ["Branco", "#FFFFFF"],
+    "description": "Camisa de manga curta confeccionada em viscose estampada com fechamento frontal por botão.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/womans/clothes/shirts/shirt13.webp"
+  },
+
+  {
+    "id": "wshirt14",
+    "name": "Wovan Vans X Curren X Knost",
+    "genre": "feminino",
+    "type": "camisas",
+    "brand": "Vans",
+    "price": "399,00",
+    "sizes": ["PP", "P", "G", "GG"],
+    "color": ["Preto", "#000000"],
+    "description": "Ultrapassar os limites e pensar de forma diferente não é novidade para os surfistas da Vans, Alex Knost (de Costa Mesa, Califórnia) e Lee-Ann Curren (de Biarritz, França). Seja na água ou fora, eles sabem que a verdadeira autoexpressão significa ser você mesmo sem remorso. Nesta segunda temporada de sua coleção sem gênero da Vans, Alex e Lee-Ann trabalharam juntos para integrar novas cores e materiais, conduzindo uma abordagem única de progressão com produto e inclusão. A maneira deles de pensar fora das linhas, tanto na onda quanto fora, ganhou vida na nova Vans X Curren X Knost Shirt Com uma estampa de listras verticais inspirada nos interiores dos anos 70 e design automotivo, esta camisa de manga curta destaca uma estética clássica com toque retrô. Outras características notáveis incluem a gola contrastante, fechamento frontal com zíper, com um novo puxador de zíper com logotipo, e um caimento confortável e descontraído. Porque para Alex e Lee-Ann, trata-se de mais do que criar uma coleção em que as pessoas fiquem bem vestidas - trata-se de se sentir bem quando você a está usando. O modelo tem 1,75 m de altura e usa tamanho Pequeno. Coleção Alex Knost/Lee-Ann Curren 100% viscose rayon Mangas curtas Nova estampa de listras na frente Gola contrastante Fecho inteiro de zíper na frente Puxador de zíper com logotipo Bolso frontal no peito com debrum Caimento descontraído.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/womans/clothes/shirts/shirt14.webp"
+  },
+
+  {
+    "id": "wshirt15",
+    "name": "Box Car LL Flannel",
+    "genre": "feminino",
+    "type": "camisas",
+    "brand": "Vans",
+    "price": "179,00",
+    "sizes": ["PP", "P", "M", "G", "GG"],
+    "color": ["Azul", "#5C6FCF"],
+    "description": "A camisa manga longa Vans Box Flannel Shirt é feita de 100% algodão. Possui tecido flanelado de fios tingidos, comprimento na altura da cintura.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/womans/clothes/shirts/shirt15.webp"
+  },
+
 ]
