@@ -2107,9 +2107,135 @@
     "subcategory": "completo",
     "brand": "Loaded",
     "price": "1490,00",
-    "sizes": ["34"],
+    "sizes": ["Flex 1", "Flex 2"],
     "color": [],
-    "description": "Compacto e confortável, o Loaded Chinchiller é uma prancha de escultura e bombeamento projetada para o máximo de diversão. Rocker e côncavo suaves, flexibilidade sutil e fácil manuseio tornam-no acessível e intuitivo, enquanto a forma simétrica e os chutes suaves oferecem a versatilidade para adicionar um pouco de freestyle e tempero freeride ao seu passeio diário. • Comprimento: 34″ / 86,4 cm • Largura: 8,5″ / 21,6 cm• Distância entre eixos: 21″ / 53,3 cm• Perfil: rocker• Flex: sutil • Peso (somente deck): 3,1 lb / 1,4 kg",
+    "description": "• Comprimento: 34″ / 86,4 cm - Largura: 8,5″ / 21,6 cm - Distância entre eixos: 21″ / 53,3 cm -  Perfil: rocker Flex: sutil -  Peso (somente deck): 3,1 lb / 1,4 kg",
     "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/complete/lcomplete01.webp"
+  },
+
+  {
+    "id": "lcomplete02",
+    "name": "Bhangra V2",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "completo",
+    "brand": "Loaded",
+    "price": "1985,00",
+    "sizes": ["Flex 1", "Flex 2"],
+    "color": [],
+    "description": "Comprimento: 48,5″ / 123 cm - Largura: 9,5″ / 24 cm - Distância entre eixos: 32,75″ / 83,19 cm - Perfil: roqueiro / Peso (somente deck): 5,1-5,5 lb / 2,3-2,5 kg",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/complete/lcomplete02.webp"
+  },
+
+  {
+    "id": "lcomplete03",
+    "name": "Tarab II",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "completo",
+    "brand": "Loaded",
+    "price": "2214,00",
+    "sizes": ["Flex 1", "Flex 2"],
+    "color": [],
+    "description": "Comprimento: 47″ / 119 cm - Largura: 9,5″ / 24,1 cm - Distância entre eixos: 30,5-31,25″ / 77,5-79,4 cm - Perfil: roqueiro - Peso (somente deck): 4,9 lb / 2,2 kg",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/complete/lcomplete03.webp"
+  },
+
+  {
+    "id": "lcomplete04",
+    "name": "Mata Hari",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "completo",
+    "brand": "Loaded",
+    "price": "1691,00",
+    "sizes": ["Flex 1", "Flex 2"],
+    "color": [],
+    "description": "Comprimento: 44,5″ / 113 cm - Largura: 9,25″ / 23,5 cm - Distância entre eixos: 27,25, 28,25, 29,25″ / 69,2, 71,8, 74,3 cm - Perfil: roqueiro - Peso (somente deck): 4,6 lb / 2,1 kg",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/complete/lcomplete04.webp"
+  },
+
+  {
+    "id": "lcomplete05",
+    "name": "Icarus",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "completo",
+    "brand": "Loaded",
+    "price": "1815,00",
+    "sizes": ["Flex 1", "Flex 2"],
+    "color": [],
+    "description": "Comprimento: 38,4″ / 97,5 cm - Largura: 8,6″ / 22 cm - Distância entre eixos: 28,25″ / 71,76 cm - Perfil: curvatura - Peso (somente deck): 2,9 lb / 1,3 kg",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/complete/lcomplete05.webp"
+  },
+
+  {
+    "id": "lcomplete06",
+    "name": "Ballona",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "completo",
+    "brand": "Loaded",
+    "price": "1092,00",
+    "sizes": ["Flex 1", "Flex 2"],
+    "color": [],
+    "description": "Comprimento: 27,75″ / 70,5 cm - Largura: 9″ / 22,9 cm - Distância entre eixos: 14,75-16″ / 37,5-40,6 cm - Perfil: roqueiro - Peso (somente deck): 2,6 lb / 1,2 kg",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/complete/lcomplete06.webp"
+  },
+
+  {
+    "id": "lcomplete07",
+    "name": "Fattail",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "completo",
+    "brand": "Loaded",
+    "price": "1700,00",
+    "sizes": ["Flex 1", "Flex 2"],
+    "color": [],
+    "description": "Comprimento: 38″ / 96,5 cm - Largura: 8,6″ / 22 cm - Distância entre eixos: 26,5-27,4″ / 67,3-69,6 cm - Perfil: curvatura - Peso (somente deck): 3 lb / 1,4 kg",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/complete/lcomplete07.webp"
+  },
+
+  {
+    "id": "lcomplete08",
+    "name": "Poke",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "completo",
+    "brand": "Loaded",
+    "price": "1466,00",
+    "sizes": ["Flex 1", "Flex 2"],
+    "color": [],
+    "description": "• Comprimento: 34″ / 86 cm - Largura: 9,125″ / 23,2 cm - Distância entre eixos: 20,75″ / 52,7 cm - Perfil: rocker - Flex: sutil - Peso (somente deck): 2,8 lb / 1,3 kg",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/complete/lcomplete08.webp"
+  },
+
+  {
+    "id": "lcomplete09",
+    "name": "Vanguard",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "completo",
+    "brand": "Loaded",
+    "price": "1636,00",
+    "sizes": ["Flex 1", "Flex 2"],
+    "color": [],
+    "description": "Comprimento: 42 e 38″ / 107 e 98 cm - Largura: 8,5″ / 21,5 cm - Distância entre eixos (furo interno): 35 e 31,5″ / 88,9 e 80 cm - Perfil: curvatura - Peso (somente deck): 2,7-3,8 lb / 1,2-1,7 kg",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/complete/lcomplete09.webp"
+  },
+
+  {
+    "id": "lcomplete10",
+    "name": "Tan Tien",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "completo",
+    "brand": "Loaded",
+    "price": "1616,00",
+    "sizes": ["Flex 1", "Flex 2"],
+    "color": [],
+    "description": "Comprimento: 39″ / 99 cm - Largura: 8,75″ / 22,3 cm - Distância entre eixos: 27″ / 68,6 cm - Perfil: curvatura - Peso (somente deck): 3,1-3,5 lb / 1,4-1,6 kg",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/complete/lcomplete10.webp"
   }
 ]
