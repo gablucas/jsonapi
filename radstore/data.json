@@ -2097,5 +2097,19 @@
     "color": ["Rosa", "#C8418C"],
     "description": "Conhecido inicialmente como Vans #36, o Old Skool estreou em 1977 com uma nova adição peculiar: um desenho aleatório feito por Paul Van Doren, originalmente chamado de “faixa de jazz”. Hoje, o famoso Vans Sidestripe se tornou o inconfundível – e instantaneamente reconhecido – distintivo da marca Vans. Construído com cabedais duráveis em camurça e lona em uma variedade de cores originais, o Old Skool homenageia nossa tradição, garantindo que este tênis de cano baixo com cadarço permaneça icônico como sempre. Também inclui ponteiras reforçadas, colarinhos acolchoados firmes e o solado emborrachado característico da marca em waffle. • Tênis icônico de cano baixo com faixas laterais da Vans • Cabedais duráveis em camurça e lona • Fechamento com cadarço • Ponteiras reforçadas • Colarinhos acolchoados firmes • Solado emborrachado característico da marca em waffle",
     "image": "https://gablucas.github.io/jsonapi/radstore/images/unissex/footwear/shoes/ushoe30.webp"
+  },
+
+  {
+    "id": "lcomplete01",
+    "name": "Chinchiller",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "completo",
+    "brand": "Loaded",
+    "price": "1490,00",
+    "sizes": ["34"],
+    "color": [],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/complete/lcomplete01.webp"
   }
 ]
