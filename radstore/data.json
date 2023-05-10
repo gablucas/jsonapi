@@ -2238,6 +2238,7 @@
     "description": "Comprimento: 39″ / 99 cm - Largura: 8,75″ / 22,3 cm - Distância entre eixos: 27″ / 68,6 cm - Perfil: curvatura - Peso (somente deck): 3,1-3,5 lb / 1,4-1,6 kg",
     "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/completo/lcompleto10.webp"
   },
+
   {
     "id": "lshape01",
     "name": "Chinchiller",
@@ -2376,5 +2377,257 @@
     "color": [],
     "description": "Comprimento: 39″ / 99 cm - Largura: 8,75″ / 22,3 cm - Distância entre eixos: 27″ / 68,6 cm - Perfil: curvatura - Peso (somente deck): 3,1-3,5 lb / 1,4-1,6 kg",
     "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/shapes/lshape10.webp"
+  },
+
+  {
+    "id": "ltruck01",
+    "name": "Paris Truck V3 Polished",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "trucks",
+    "brand": "Paris Truck Co",
+    "price": "319,00",
+    "sizes": ["150mm 43°", "165mm 43°", "180mm 43°", "150mm 50°", "165mm 50°", "180mm 50°"],
+    "color": ["Cinza", "#535257"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/trucks/ltruck01.webp"
+  },
+
+  {
+    "id": "ltruck02",
+    "name": "Paris Truck V3 Matte Black",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "trucks",
+    "brand": "Paris Truck Co",
+    "price": "319,00",
+    "sizes": ["150mm 43°", "165mm 43°", "180mm 43°", "150mm 50°", "165mm 50°", "180mm 50°"],
+    "color": ["Preto", "#000000"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/trucks/ltruck02.webp"
+  },
+
+  {
+    "id": "ltruck03",
+    "name": "Paris Truck V3 Jet Black",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "trucks",
+    "brand": "Paris Truck Co",
+    "price": "319,00",
+    "sizes": ["150mm 43°", "165mm 43°", "180mm 43°", "150mm 50°", "165mm 50°", "180mm 50°"],
+    "color": ["Preto", "#000000"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/trucks/ltruck03.webp"
+  },
+
+  {
+    "id": "ltruck04",
+    "name": "Paris Truck V3 White Pearl",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "trucks",
+    "brand": "Paris Truck Co",
+    "price": "319,00",
+    "sizes": ["150mm 43°", "165mm 43°", "180mm 43°", "150mm 50°", "165mm 50°", "180mm 50°"],
+    "color": ["Branco", "#FFFFFF"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/trucks/ltruck04.webp"
+  },
+
+  {
+    "id": "ltruck05",
+    "name": "Paris Truck V3 Sage Green",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "trucks",
+    "brand": "Paris Truck Co",
+    "price": "319,00",
+    "sizes": ["150mm 43°", "165mm 43°", "180mm 43°", "150mm 50°", "165mm 50°", "180mm 50°"],
+    "color": ["Verde", "#447831"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/trucks/ltruck05.webp"
+  },
+
+  {
+    "id": "ltruck06",
+    "name": "Paris Truck V3 Scarlet Red",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "trucks",
+    "brand": "Paris Truck Co",
+    "price": "319,00",
+    "sizes": ["150mm 43°", "165mm 43°", "180mm 43°", "150mm 50°", "165mm 50°", "180mm 50°"],
+    "color": ["Vermelho", "#C11301"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/trucks/ltruck06.webp"
+  },
+
+  {
+    "id": "ltruck07",
+    "name": "Paris Truck V3 Tiffany",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "trucks",
+    "brand": "Paris Truck Co",
+    "price": "319,00",
+    "sizes": ["150mm 43°", "165mm 43°", "180mm 43°", "150mm 50°", "165mm 50°", "180mm 50°"],
+    "color": ["Azul", "#5C6FCF"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/trucks/ltruck07.webp"
+  },
+
+  {
+    "id": "ltruck08",
+    "name": "Paris Truck V3 Tropic Green",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "trucks",
+    "brand": "Paris Truck Co",
+    "price": "319,00",
+    "sizes": ["150mm 43°", "165mm 43°", "180mm 43°", "150mm 50°", "165mm 50°", "180mm 50°"],
+    "color": ["Verde", "#447831"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/trucks/ltruck08.webp"
+  },
+
+  {
+    "id": "ltruck09",
+    "name": "Paris Truck V3 Crystal Blue",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "trucks",
+    "brand": "Paris Truck Co",
+    "price": "319,00",
+    "sizes": ["150mm 43°", "165mm 43°", "180mm 43°", "150mm 50°", "165mm 50°", "180mm 50°"],
+    "color": ["Verde", "#447831"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/trucks/ltruck09.webp"
+  },
+
+  {
+    "id": "ltruck10",
+    "name": "Paris Truck V3 Purple Tide",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "trucks",
+    "brand": "Paris Truck Co",
+    "price": "319,00",
+    "sizes": ["150mm 43°", "165mm 43°", "180mm 43°", "150mm 50°", "165mm 50°", "180mm 50°"],
+    "color": ["Roxo", "#993399"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/trucks/ltruck10.webp"
+  },
+
+  {
+    "id": "ltruck11",
+    "name": "Paris Truck V3 Green/Black",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "trucks",
+    "brand": "Paris Truck Co",
+    "price": "319,00",
+    "sizes": ["150mm 43°", "165mm 43°", "180mm 43°", "150mm 50°", "165mm 50°", "180mm 50°"],
+    "color": ["Verde", "#447831"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/trucks/ltruck11.webp"
+  },
+
+  {
+    "id": "ltruck12",
+    "name": "Paris Truck V3 Polished/Red",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "trucks",
+    "brand": "Paris Truck Co",
+    "price": "319,00",
+    "sizes": ["150mm 43°", "165mm 43°", "180mm 43°", "150mm 50°", "165mm 50°", "180mm 50°"],
+    "color": ["Cinza", "#535257"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/trucks/ltruck12.webp"
+  },
+
+  {
+    "id": "ltruck13",
+    "name": "Paris Truck V3 Red/Black",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "trucks",
+    "brand": "Paris Truck Co",
+    "price": "319,00",
+    "sizes": ["150mm 43°", "165mm 43°", "180mm 43°", "150mm 50°", "165mm 50°", "180mm 50°"],
+    "color": ["Vermelho", "#C11301"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/trucks/ltruck13.webp"
+  },
+
+  {
+    "id": "ltruck14",
+    "name": "Paris Truck V3 White/Black",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "trucks",
+    "brand": "Paris Truck Co",
+    "price": "319,00",
+    "sizes": ["150mm 43°", "165mm 43°", "180mm 43°", "150mm 50°", "165mm 50°", "180mm 50°"],
+    "color": ["Branco", "#FFFFFF"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/trucks/ltruck14.webp"
+  },
+
+  {
+    "id": "ltruck15",
+    "name": "Paris Truck V3 Black/Tiffany",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "trucks",
+    "brand": "Paris Truck Co",
+    "price": "319,00",
+    "sizes": ["150mm 43°", "165mm 43°", "180mm 43°", "150mm 50°", "165mm 50°", "180mm 50°"],
+    "color": ["Preto", "#000000"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/trucks/ltruck15.webp"
+  },
+
+  {
+    "id": "ltruck16",
+    "name": "Paris Truck V3 Tiffany/White",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "trucks",
+    "brand": "Paris Truck Co",
+    "price": "319,00",
+    "sizes": ["150mm 43°", "165mm 43°", "180mm 43°", "150mm 50°", "165mm 50°", "180mm 50°"],
+    "color": ["Azul", "#5C6FCF"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/trucks/ltruck16.webp"
+  },
+
+  {
+    "id": "ltruck17",
+    "name": "Paris Truck V3 Black/Purple",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "trucks",
+    "brand": "Paris Truck Co",
+    "price": "319,00",
+    "sizes": ["150mm 43°", "165mm 43°", "180mm 43°", "150mm 50°", "165mm 50°", "180mm 50°"],
+    "color": ["Preto", "#000000"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/trucks/ltruck17.webp"
+  },
+
+  {
+    "id": "ltruck18",
+    "name": "Paris Truck V3 Purple/Black",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "trucks",
+    "brand": "Paris Truck Co",
+    "price": "319,00",
+    "sizes": ["150mm 43°", "165mm 43°", "180mm 43°", "150mm 50°", "165mm 50°", "180mm 50°"],
+    "color": ["Roxo", "#993399"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/trucks/ltruck18.webp"
   }
 ]
