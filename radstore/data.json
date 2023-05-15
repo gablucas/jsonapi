@@ -2629,5 +2629,411 @@
     "color": ["Roxo", "#993399"],
     "description": "",
     "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/trucks/ltruck18.webp"
+  },
+
+  {
+    "id": "lwheels01",
+    "name": "Skiff - 62mm - 80a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "254,00",
+    "sizes": ["62mm"],
+    "color": ["Laranja", "#FFA700"],
+    "description": "Diâmetro: 62mm - Largura: 35mm Patch de contato: 25mm - Estilo: Lábios arredondados com superfície de pedra Assento do rolamento: conjunto central - Fórmula: Happy Thane Núcleo: uretano de alta resistência, resistente ao calor e sem vidro - Peso: 3,2 oz / 91 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels01.webp"
+  },
+
+  {
+    "id": "lwheels02",
+    "name": "Skiff - 62mm - 83a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "254,00",
+    "sizes": ["62mm"],
+    "color": ["Roxo", "#993399"],
+    "description": "Diâmetro: 62mm - Largura: 35mm Patch de contato: 25mm - Estilo: Lábios arredondados com superfície de pedra Assento do rolamento: conjunto central - Fórmula: Happy Thane Núcleo: uretano de alta resistência, resistente ao calor e sem vidro - Peso: 3,2 oz / 91 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels02.webp"
+  },
+
+  {
+    "id": "lwheels03",
+    "name": "Skiff - 62mm - 86a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "254,00",
+    "sizes": ["62mm"],
+    "color": ["Amarelo", "#F6DD34"],
+    "description": "Diâmetro: 62mm - Largura: 35mm Patch de contato: 25mm - Estilo: Lábios arredondados com superfície de pedra Assento do rolamento: conjunto central - Fórmula: Happy Thane Núcleo: uretano de alta resistência, resistente ao calor e sem vidro - Peso: 3,2 oz / 91 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels03.webp"
+  },
+
+  {
+    "id": "lwheels04",
+    "name": "Fat Free - 65mm - 77a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "264,00",
+    "sizes": ["65mm"],
+    "color": ["Azul", "#5C6FCF"],
+    "description": "Diâmetro: 65mm - Largura: 45mm - Patch de contato: 37mm - Estilo: Lábios arredondados com superfície de pedra - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 4,5 oz / 130 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels04.webp"
+  },
+
+  {
+    "id": "lwheels05",
+    "name": "Fat Free - 65mm - 80a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "264,00",
+    "sizes": ["65mm"],
+    "color": ["Laranja", "#FFA700"],
+    "description": "Diâmetro: 65mm - Largura: 45mm - Patch de contato: 37mm - Estilo: Lábios arredondados com superfície de pedra - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 4,5 oz / 130 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels05.webp"
+  },
+
+  {
+    "id": "lwheels06",
+    "name": "Fat Free - 65mm - 83a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "264,00",
+    "sizes": ["65mm"],
+    "color": ["Roxo", "#993399"],
+    "description": "Diâmetro: 65mm - Largura: 45mm - Patch de contato: 37mm - Estilo: Lábios arredondados com superfície de pedra - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 4,5 oz / 130 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels06.webp"
+  },
+
+  {
+    "id": "lwheels07",
+    "name": "Fat Free - 65mm - 86a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "264,00",
+    "sizes": ["65mm"],
+    "color": ["Amarelo", "#F6DD34"],
+    "description": "Diâmetro: 65mm - Largura: 45mm - Patch de contato: 37mm - Estilo: Lábios arredondados com superfície de pedra - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 4,5 oz / 130 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels07.webp"
+  },
+
+  {
+    "id": "lwheels08",
+    "name": "Love Handles - 65mm - 77a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "274,00",
+    "sizes": ["65mm"],
+    "color": ["Azul", "#5C6FCF"],
+    "description": "Diâmetro: 65mm - Largura: 50mm - Patch de contato: 50mm - Estilo: Lábios afiados com pele superficial - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 5,1 oz / 145 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels08.webp"
+  },
+
+  {
+    "id": "lwheels09",
+    "name": "Love Handles - 65mm - 80a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "274,00",
+    "sizes": ["65mm"],
+    "color": ["Laranja", "#FFA700"],
+    "description": "Diâmetro: 65mm - Largura: 50mm - Patch de contato: 50mm - Estilo: Lábios afiados com pele superficial - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 5,1 oz / 145 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels09.webp"
+  },
+
+  {
+    "id": "lwheels10",
+    "name": "Stimulus - 70mm - 77a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "280,00",
+    "sizes": ["70mm"],
+    "color": ["Azul", "#5C6FCF"],
+    "description": "Diâmetro: 70mm - Largura: 49mm - Patch de contato: 42mm - Estilo: Lábios arredondados com superfície de pedra - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 5,7 oz / 160 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels10.webp"
+  },
+
+  {
+    "id": "lwheels11",
+    "name": "Stimulus - 70mm - 80a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "280,00",
+    "sizes": ["70mm"],
+    "color": ["Laranja", "#FFA700"],
+    "description": "Diâmetro: 70mm - Largura: 49mm - Patch de contato: 42mm - Estilo: Lábios arredondados com superfície de pedra - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 5,7 oz / 160 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels11.webp"
+  },
+
+  {
+    "id": "lwheels12",
+    "name": "Stimulus - 70mm - 83a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "280,00",
+    "sizes": ["70mm"],
+    "color": ["Roxo", "#993399"],
+    "description": "Diâmetro: 70mm - Largura: 49mm - Patch de contato: 42mm - Estilo: Lábios arredondados com superfície de pedra - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 5,7 oz / 160 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels12.webp"
+  },
+
+  {
+    "id": "lwheels13",
+    "name": "Stimulus - 70mm - 86a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "280,00",
+    "sizes": ["70mm"],
+    "color": ["Amarelo", "#F6DD34"],
+    "description": "Diâmetro: 70mm - Largura: 49mm - Patch de contato: 42mm - Estilo: Lábios arredondados com superfície de pedra - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 5,7 oz / 160 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels13.webp"
+  },
+
+  {
+    "id": "lwheels14",
+    "name": "4President - 70mm - 77a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "279,00",
+    "sizes": ["70mm"],
+    "color": ["Azul", "#5C6FCF"],
+    "description": "Diâmetro: 70mm - Largura: 53mm - Patch de contato: 53mm - Estilo: Lábios afiados com pele superficial - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 6,3 oz / 180 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels14.webp"
+  },
+
+  {
+    "id": "lwheels15",
+    "name": "4President - 70mm - 80a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "279,00",
+    "sizes": ["70mm"],
+    "color": ["Laranja", "#FFA700"],
+    "description": "Diâmetro: 70mm - Largura: 53mm - Patch de contato: 53mm - Estilo: Lábios afiados com pele superficial - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 6,3 oz / 180 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels15.webp"
+  },
+
+  {
+    "id": "lwheels16",
+    "name": "4President - 70mm - 83a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "279,00",
+    "sizes": ["70mm"],
+    "color": ["Roxo", "#993399"],
+    "description": "Diâmetro: 70mm - Largura: 53mm - Patch de contato: 53mm - Estilo: Lábios afiados com pele superficial - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 6,3 oz / 180 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels16.webp"
+  },
+
+  {
+    "id": "lwheels17",
+    "name": "Durian - 75mm - 80a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "313,00",
+    "sizes": ["75mm"],
+    "color": ["Laranja", "#FFA700"],
+    "description": "Diâmetro: 75mm - Largura: 52mm - Patch de contato: 45mm - Estilo: Lábios arredondados com superfície de pedra - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 7,1 oz / 200 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels17.webp"
+  },
+
+  {
+    "id": "lwheels18",
+    "name": "Durian - 75mm - 83a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "313,00",
+    "sizes": ["75mm"],
+    "color": ["Roxo", "#993399"],
+    "description": "Diâmetro: 75mm - Largura: 52mm - Patch de contato: 45mm - Estilo: Lábios arredondados com superfície de pedra - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 7,1 oz / 200 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels18.webp"
+  },
+
+  {
+    "id": "lwheels19",
+    "name": "Durian - 75mm - 86a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "313,00",
+    "sizes": ["75mm"],
+    "color": ["Amarelo", "#F6DD34"],
+    "description": "Diâmetro: 75mm - Largura: 52mm - Patch de contato: 45mm - Estilo: Lábios arredondados com superfície de pedra - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 7,1 oz / 200 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels19.webp"
+  },
+
+  {
+    "id": "lwheels20",
+    "name": "In Heat - 75mm - 77a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "303,00",
+    "sizes": ["75mm"],
+    "color": ["Azul", "#5C6FCF"],
+    "description": "Diâmetro: 75mm - Largura: 56mm - Patch de contato: 56mm - Estilo: Lábios afiados com pele superficial - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 7,8 oz / 220 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels20.webp"
+  },
+
+  {
+    "id": "lwheels21",
+    "name": "In Heat - 75mm - 80a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "303,00",
+    "sizes": ["75mm"],
+    "color": ["Laranja", "#FFA700"],
+    "description": "Diâmetro: 75mm - Largura: 56mm - Patch de contato: 56mm - Estilo: Lábios afiados com pele superficial - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 7,8 oz / 220 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels21.webp"
+  },
+
+  {
+    "id": "lwheels22",
+    "name": "In Heat - 75mm - 86a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "303,00",
+    "sizes": ["75mm"],
+    "color": ["Roxo", "#993399"],
+    "description": "Diâmetro: 75mm - Largura: 56mm - Patch de contato: 56mm - Estilo: Lábios afiados com pele superficial - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 7,8 oz / 220 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels22.webp"
+  },
+
+  {
+    "id": "lwheels23",
+    "name": "Kegel - 80mm - 77a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "337,00",
+    "sizes": ["80mm"],
+    "color": ["Azul", "#5C6FCF"],
+    "description": "Diâmetro: 80mm - Largura: 56mm - Patch de contato: 56mm - Estilo: Lábios afiados com pele superficial - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 8,2 oz / 230 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels23.webp"
+  },
+
+  {
+    "id": "lwheels24",
+    "name": "Kegel - 80mm - 80a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "337,00",
+    "sizes": ["80mm"],
+    "color": ["Laranja", "#FFA700"],
+    "description": "Diâmetro: 80mm - Largura: 56mm - Patch de contato: 56mm - Estilo: Lábios afiados com pele superficial - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 8,2 oz / 230 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels24.webp"
+  },
+
+  {
+    "id": "lwheels25",
+    "name": "Kegel - 80mm - 86a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "337,00",
+    "sizes": ["80mm"],
+    "color": ["Roxo", "#993399"],
+    "description": "Diâmetro: 80mm - Largura: 56mm - Patch de contato: 56mm - Estilo: Lábios afiados com pele superficial - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 8,2 oz / 230 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels25.webp"
+  },
+
+  {
+    "id": "lwheels26",
+    "name": "Caguama - 85mm - 77a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "391,00",
+    "sizes": ["85mm"],
+    "color": ["Azul", "#5C6FCF"],
+    "description": "Diâmetro: 85mm - Largura: 58,5 mm - Patch de contato: 56mm - Estilo: Lábios arredondados com pele superficial - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 9,6 oz / 270 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels26.webp"
+  },
+
+  {
+    "id": "lwheels27",
+    "name": "Caguama - 85mm - 80a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "391,00",
+    "sizes": ["85mm"],
+    "color": ["Laranja", "#FFA700"],
+    "description": "Diâmetro: 85mm - Largura: 58,5 mm - Patch de contato: 56mm - Estilo: Lábios arredondados com pele superficial - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 9,6 oz / 270 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels27.webp"
+  },
+
+  {
+    "id": "lwheels28",
+    "name": "Caguama - 85mm - 86a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "391,00",
+    "sizes": ["85mm"],
+    "color": ["Roxo", "#993399"],
+    "description": "Diâmetro: 85mm - Largura: 58,5 mm - Patch de contato: 56mm - Estilo: Lábios arredondados com pele superficial - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor - Peso (por roda): 9,6 oz / 270 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels28.webp"
+  },
+
+  {
+    "id": "lwheels29",
+    "name": "Dad Bod - 105mm - 80a",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "wheels",
+    "brand": "Orangatang",
+    "price": "734,00",
+    "sizes": ["105mm"],
+    "color": ["Laranja", "#FFA700"],
+    "description": "Diâmetro: 105mm - Largura: 62mm - Patch de contato: 57mm - Estilo: Lábios arredondados com pele superficial - Assento do rolamento: Deslocado - Fórmula: Happy Thane - Núcleo: uretano de alta resistência, alta rigidez e resistente ao calor TrypoCore - Peso (por roda): 15 oz / 428 g",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/wheels/lwheels29.webp"
   }
 ]
