@@ -3045,7 +3045,7 @@
     "subcategory": "rolamentos",
     "brand": "Loaded",
     "price": "200,00",
-    "sizes": [],
+    "sizes": ["Único"],
     "color": [],
     "description": "Os novos rolamentos Jehunion carregados (versão 2 de nossos rolamentos Jehu originais) apresentam pistas internas estendidas para eliminar a necessidade de espaçadores separados e anéis de velocidade. Aperte as porcas do eixo até que não haja folga excessiva e as rodas ainda girem com facilidade.",
     "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/bearings/lbearings01.webp"
