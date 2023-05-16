@@ -3058,8 +3058,8 @@
     "category": "longboard",
     "subcategory": "amortecedores",
     "brand": "Orangatang",
-    "price": "264,00",
-    "sizes": ["65mm"],
+    "price": "97,00",
+    "sizes": ["Único"],
     "color": ["Laranja", "#FFA700"],
     "description": "Diâmetro: 1 (25,4 mm) - Altura (superior): 0,56 (14,2 mm) - Altura (inferior): 0,66 (16,8 mm) - Fórmula: Randy Thane",
     "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/bushings/lbushings01.webp"
@@ -3072,8 +3072,8 @@
     "category": "longboard",
     "subcategory": "amortecedores",
     "brand": "Orangatang",
-    "price": "264,00",
-    "sizes": ["65mm"],
+    "price": "97,00",
+    "sizes": ["Único"],
     "color": ["Roxo", "#993399"],
     "description": "Diâmetro: 1 (25,4 mm) - Altura (superior): 0,56 (14,2 mm) - Altura (inferior): 0,66 (16,8 mm) - Fórmula: Randy Thane",
     "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/bushings/lbushings02.webp"
@@ -3086,8 +3086,8 @@
     "category": "longboard",
     "subcategory": "amortecedores",
     "brand": "Orangatang",
-    "price": "264,00",
-    "sizes": ["65mm"],
+    "price": "97,00",
+    "sizes": ["Único"],
     "color": ["Amarelo", "#F6DD34"],
     "description": "Diâmetro: 1 (25,4 mm) - Altura (superior): 0,56 (14,2 mm) - Altura (inferior): 0,66 (16,8 mm) - Fórmula: Randy Thane",
     "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/bushings/lbushings03.webp"
@@ -3100,8 +3100,8 @@
     "category": "longboard",
     "subcategory": "amortecedores",
     "brand": "Orangatang",
-    "price": "264,00",
-    "sizes": ["65mm"],
+    "price": "97,00",
+    "sizes": ["Único"],
     "color": ["Laranja", "#FFA700"],
     "description": "Diâmetro: 0,95 (24,1 mm) - Altura (goma): 0,64 (16,3 mm) - Altura (cano interno): cano de 0,59 (15 mm) + inserção de 0,075 (1,91 mm) = 0,665 (16,9 mm) total - Fórmula: Randy Thane",
     "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/bushings/lbushings04.webp"
@@ -3114,10 +3114,24 @@
     "category": "longboard",
     "subcategory": "amortecedores",
     "brand": "Orangatang",
-    "price": "264,00",
-    "sizes": ["65mm"],
+    "price": "97,00",
+    "sizes": ["Único"],
     "color": ["Roxo", "#993399"],
     "description": "Diâmetro: 0,95 (24,1 mm) - Altura (goma): 0,64 (16,3 mm) - Altura (cano interno): cano de 0,59 (15 mm) + inserção de 0,075 (1,91 mm) = 0,665 (16,9 mm) total - Fórmula: Randy Thane",
     "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/bushings/lbushings05.webp"
+  },
+
+  {
+    "id": "lacessories01",
+    "name": "",
+    "genre": "longboard",
+    "category": "longboard",
+    "subcategory": "acessorios",
+    "brand": "Orangatang",
+    "price": "264,00",
+    "sizes": ["Único"],
+    "color": [""],
+    "description": "Diâmetro: 0,95 (24,1 mm) - Altura (goma): 0,64 (16,3 mm) - Altura (cano interno): cano de 0,59 (15 mm) + inserção de 0,075 (1,91 mm) = 0,665 (16,9 mm) total - Fórmula: Randy Thane",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/sports/longboards/acessories/lacessories05.webp"
   }
 ]
