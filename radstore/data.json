@@ -966,20 +966,6 @@
   },
 
   {
-    "id": "wshirt10",
-    "name": "Fruity Fun Checkerboard Buttondown Shirt",
-    "genre": "feminino",
-    "category": "roupas",
-    "subcategory": "camisas",
-    "brand": "Vans",
-    "price": "449,00",
-    "sizes": ["PP", "P", "M", "G", "GG"],
-    "color": ["Rosa", "#C8418C"],
-    "description": "",
-    "image": "https://gablucas.github.io/jsonapi/radstore/images/womans/clothes/shirts/wshirt10.webp"
-  },
-
-  {
     "id": "wtshirt01",
     "name": "Camiseta Crested Breana Geering White",
     "genre": "feminino",
