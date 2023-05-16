@@ -2086,6 +2086,146 @@
   },
 
   {
+    "id": "uslipper01",
+    "name": "La Costa Slide-On Butterfly Black Multi",
+    "genre": "unissex",
+    "category": "calcados",
+    "subcategory": "chinelos",
+    "brand": "Vans",
+    "price": "199,00",
+    "sizes": ["33", "34", "35", "36", "37", "38", "38", "40", "41", "42", "43", "44", "45", "46"],
+    "color": ["Preto", "#000000"],
+    "description": "Deslize no conforto com o Butterfly La Costa Slide-On. Inspirada nas raízes vulcanizadas clássicas da Vans, este slip-on apresenta uma tira de nobuck sintético com estampa de borboleta, forro de borracha macia e tecido elástico. Nossas palmilhas UltraCush super macias incluem suporte de arco embutido e as solas waffle UltraCush™ Lite injetadas com leveza, flexibilidade e durabilidade acompanham a correria de um dia inteiro. • Inspirado nas raízes vulcanizadas clássicas da Vans • Tiras de nobuck sintético com estampa de borboleta • Borracha macia e forro de tecido elástico para conforto • Sola waffle UltraCush Lite injetada leve, flexível e durável • Produzido com tintas e colas à base de água",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/unissex/footwear/slippers/uslipper30.webp"
+  },
+
+  {
+    "id": "uslipper02",
+    "name": "Chinelao La Costa Slide-On Trippy Grain Black Black",
+    "genre": "unissex",
+    "category": "calcados",
+    "subcategory": "chinelos",
+    "brand": "Vans",
+    "price": "199,00",
+    "sizes": ["33", "34", "35", "36", "37", "38", "38", "40", "41", "42", "43", "44", "45", "46"],
+    "color": ["Preto", "#000000"],
+    "description": "Deslize no conforto com o Vans La Costa Slide-On. Inspirada nas raízes vulcanizadas clássicas da Vans, este slip-on apresenta uma tira de nobuck sintético com logotipo da Vans em relevo e forro de borracha macia e tecido elástico. Nossas palmilhas UltraCush super macias incluem suporte de arco embutido e as solas waffle UltraCush™ Lite injetadas com leveza, flexibilidade e durabilidade acompanham a correria de um dia inteiro. • Inspirado nas raízes vulcanizadas clássicas da Vans • Tiras de nobuck sintético • Borracha macia e forro de tecido elástico para conforto • Sola waffle UltraCush™ Lite injetada leve, flexível e durável • Produzido com tintas e colas à base de água",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/unissex/footwear/slippers/uslipper02.webp"
+  },
+
+  {
+    "id": "uslipper03",
+    "name": "La Costa Slide-On Marshmallow",
+    "genre": "unissex",
+    "category": "calcados",
+    "subcategory": "chinelos",
+    "brand": "Vans",
+    "price": "179,00",
+    "sizes": ["33", "34", "35", "36", "37", "38", "38", "40", "41", "42", "43", "44", "45", "46"],
+    "color": ["Branco", "#FFFFFF"],
+    "description": "Curta o conforto com a Vans La Costa Slide-On. Inspirada pelas raízes clássicas vulcanizadas da Vans, esta sandália slide-on tem tira de nobuck sintético na cor branca com o logotipo drop V da Vans gravado com relevo na cor preta e forro em borracha macia e tecido esticável. Nossa palmilha UltraCush supermacia possui suporte de arco embutido e os solados injetados UltraCush Lite são leves, flexíveis e duráveis e estão prontos para uso o dia inteiro. Confeccionado com tintas e colas à base de água o La costa Slide-on possui elementos do DNA Vans como a heel tag com o clássico logo off the wall e o desenho do solado não padrão waffle.",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/unissex/footwear/slippers/uslipper03.webp"
+  },
+
+  {
+    "id": "uslipper04",
+    "name": "La Costa Slide-On Vans Tawny Port",
+    "genre": "unissex",
+    "category": "calcados",
+    "subcategory": "chinelos",
+    "brand": "Vans",
+    "price": "179,00",
+    "sizes": ["33", "34", "35", "36", "37", "38", "38", "40", "41", "42", "43", "44", "45", "46"],
+    "color": ["Vinho", "#932836"],
+    "description": "Deslize para o conforto com o Vans La Costa Slide-On. Inspirado nas raízes vulcanizadas clássicas da Vans, este chinelo slide-on apresenta uma tira sintética nobuck com um logotipo da Vans em relevo, e forros de borracha macia e tecido elástico. Nossas palmilhas UltraCush supermacias incluem suporte embutido do arco, e as solas waffle injetadas UltraCush Lite leves, flexíveis e duráveis estão prontas para o uso durante todo o dia. É feito com tintas e colas à base de água. • Inspirada pelas raízes clássicas vulcanizadas da Vans • Tiras de nobuck sintético • Forro de borracha macia e tecido elástico para maior conforto • Solados leves, flexíveis e duráveis injetados UltraCush Lite em waffle. • Fabricada com tintas e colas à base de água",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/unissex/footwear/slippers/uslipper04.webp"
+  },
+
+  {
+    "id": "uslipper05",
+    "name": "La Costa Slide-On Floral Dark",
+    "genre": "unissex",
+    "category": "calcados",
+    "subcategory": "chinelos",
+    "brand": "Vans",
+    "price": "179,00",
+    "sizes": ["33", "34", "35", "36", "37", "38", "38", "40", "41", "42", "43", "44", "45", "46"],
+    "color": ["Preto", "#000000"],
+    "description": "Deslize no conforto com o Jazz Floral La Costa Slide-On. Inspirada nas raízes vulcanizadas clássicas da Vans, este slip-on apresenta uma tira de nobuck sintético com estampa floral retrô, forro de borracha macia e tecido elástico. Nossas palmilhas UltraCush super macias incluem suporte de arco embutido e as solas waffle UltraCush Lite injetadas com leveza, flexibilidade e durabilidade acompanham a correria de um dia inteiro. Este chinelo slide é produzido com tintas e colas à base de água. • Inspirado nas raízes vulcanizadas clássicas da Vans • Tiras de nobuck sintético com estampa floral • Borracha macia e forro de tecido elástico para conforto • Sola waffle UltraCush Lite injetada leve, flexível e durável • Produzido com tintas e colas à base de água",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/unissex/footwear/slippers/uslipper05.webp"
+  },
+
+  {
+    "id": "uslipper06",
+    "name": "La Costa Slide-On Trippy Floral Mustard Gold",
+    "genre": "unissex",
+    "category": "calcados",
+    "subcategory": "chinelos",
+    "brand": "Vans",
+    "price": "139,00",
+    "sizes": ["33", "34", "35", "36", "37", "38", "38", "40", "41", "42", "43", "44", "45", "46"],
+    "color": ["Branco", "#FFFFFF"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/unissex/footwear/slippers/uslipper06.webp"
+  },
+
+  {
+    "id": "uslipper07",
+    "name": "La Costa Slide-On Ombre Lilas",
+    "genre": "unissex",
+    "category": "calcados",
+    "subcategory": "chinelos",
+    "brand": "Vans",
+    "price": "139,00",
+    "sizes": ["33", "34", "35", "36", "37", "38", "38", "40", "41", "42", "43", "44", "45", "46"],
+    "color": ["Branco", "#FFFFFF"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/unissex/footwear/slippers/uslipper07.webp"
+  },
+
+  {
+    "id": "uslipper08",
+    "name": "Slide-On La Costa Use Sua Voz",
+    "genre": "unissex",
+    "category": "calcados",
+    "subcategory": "chinelos",
+    "brand": "Vans",
+    "price": "129,00",
+    "sizes": ["33", "34", "35", "36", "37", "38", "38", "40", "41", "42", "43", "44", "45", "46"],
+    "color": ["Branco", "#FFFFFF"],
+    "description": "",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/unissex/footwear/slippers/uslipper08.webp"
+  },
+
+  {
+    "id": "uslipper09",
+    "name": "Slide-On La Costa Use Sua Voz",
+    "genre": "unissex",
+    "category": "calcados",
+    "subcategory": "chinelos",
+    "brand": "Vans",
+    "price": "129,00",
+    "sizes": ["33", "34", "35", "36", "37", "38", "38", "40", "41", "42", "43", "44", "45", "46"],
+    "color": ["Azul", "#5C6FCF"],
+    "description": "Deslize no conforto com o Checkerboard La Costa Slide-On. Inspirada nas raízes vulcanizadas clássicas da Vans, este slip-on apresenta uma tira de nobuck sintético com a icônica estampa em checkerboard da Vans, forro de borracha macia e tecido elástico. Nossas palmilhas UltraCush super macias incluem suporte de arco embutido e as solas waffle UltraCush™ Lite injetadas com leveza, flexibilidade e durabilidade acompanham a correria de um dia inteiro. • Inspirado nas raízes vulcanizadas clássicas da Vans • Tiras de nobuck sintético com nossa icônica estampa em checkerboard • Borracha macia e forro de tecido elástico para conforto • Sola waffle UltraCush™ Lite injetada leve, flexível e durável • Produzido com tintas e colas à base de água",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/unissex/footwear/slippers/uslipper09.webp"
+  },
+
+  {
+    "id": "uslipper10",
+    "name": "Slide-On La Costa Use Sua Voz",
+    "genre": "unissex",
+    "category": "calcados",
+    "subcategory": "chinelos",
+    "brand": "Vans",
+    "price": "199,00",
+    "sizes": ["33", "34", "35", "36", "37", "38", "38", "40", "41", "42", "43", "44", "45", "46"],
+    "color": ["Cinza", "#535257"],
+    "description": "Deslize no conforto com o Tie-Dye La Costa Slide-On. Inspirada nas raízes vulcanizadas clássicas da Vans, este slip-on apresenta uma tira de nobuck sintético com estampa em tie-dye e forro de borracha macia e tecido elástico. Nossas palmilhas UltraCush super macias incluem suporte de arco embutido e as solas waffle UltraCush™ Lite injetadas com leveza, flexibilidade e durabilidade acompanham a correria de um dia inteiro. • Inspirado nas raízes vulcanizadas clássicas da Vans • Tiras de nobuck sintético com estampa em tie-dye • Borracha macia e forro de tecido elástico para conforto • Sola waffle UltraCush Lite injetada leve, flexível e durável • Produzido com tintas e colas à base de água",
+    "image": "https://gablucas.github.io/jsonapi/radstore/images/unissex/footwear/slippers/uslipper10.webp"
+  },
+
+  {
     "id": "lcomplete01",
     "name": "Chinchiller",
     "genre": "longboard",
